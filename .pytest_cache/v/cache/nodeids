@@ -1,0 +1,6 @@
+[
+  "tests/test_governance.py::test_alerts_fire",
+  "tests/test_governance.py::test_counts",
+  "tests/test_governance.py::test_owners",
+  "tests/test_governance.py::test_refresh_all"
+]

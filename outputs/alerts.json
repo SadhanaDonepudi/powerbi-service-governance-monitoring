@@ -1,0 +1,4605 @@
+{
+  "p95ThresholdMinutes": 59.88,
+  "alerts": [
+    {
+      "datasetId": "ds-0001",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.16,
+      "endTime": "2026-06-26T20:37:09Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0001",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.14,
+      "endTime": "2026-06-27T23:07:08Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0002",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.43,
+      "endTime": "2026-06-15T23:00:25Z",
+      "message": "Slow refresh 61.43m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0002",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.45,
+      "endTime": "2026-06-17T11:44:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0002",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 127.67,
+      "endTime": "2026-06-23T14:33:40Z",
+      "message": "Slow refresh 127.67m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0003",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.91,
+      "endTime": "2026-06-13T04:07:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0003",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.26,
+      "endTime": "2026-06-21T21:11:15Z",
+      "message": "Slow refresh 60.26m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0003",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.53,
+      "endTime": "2026-06-23T08:18:31Z",
+      "message": "Slow refresh 82.53m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0004",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.12,
+      "endTime": "2026-06-01T01:11:07Z",
+      "message": "Slow refresh 62.12m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0004",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 226.6,
+      "endTime": "2026-06-13T20:12:36Z",
+      "message": "Slow refresh 226.6m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0004",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.74,
+      "endTime": "2026-06-16T10:12:44Z",
+      "message": "Slow refresh 62.74m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0005",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.41,
+      "endTime": "2026-06-02T04:40:24Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0005",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.97,
+      "endTime": "2026-06-07T19:20:58Z",
+      "message": "Slow refresh 61.97m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0005",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.61,
+      "endTime": "2026-06-22T01:48:36Z",
+      "message": "Slow refresh 73.61m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0006",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.15,
+      "endTime": "2026-06-01T05:26:09Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0006",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.29,
+      "endTime": "2026-06-02T07:41:17Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0006",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 71.37,
+      "endTime": "2026-06-12T13:27:22Z",
+      "message": "Slow refresh 71.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0006",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 89.2,
+      "endTime": "2026-06-13T14:51:12Z",
+      "message": "Slow refresh 89.2m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0006",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.37,
+      "endTime": "2026-06-29T12:18:22Z",
+      "message": "Slow refresh 73.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0007",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.93,
+      "endTime": "2026-06-06T11:14:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0007",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 59.99,
+      "endTime": "2026-06-19T17:57:59Z",
+      "message": "Slow refresh 59.99m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0008",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.22,
+      "endTime": "2026-06-11T22:50:13Z",
+      "message": "Slow refresh 61.22m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0008",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.48,
+      "endTime": "2026-06-23T11:53:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0008",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.74,
+      "endTime": "2026-06-27T12:23:44Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0008",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 190.16,
+      "endTime": "2026-06-28T09:27:09Z",
+      "message": "Slow refresh 190.16m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0009",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.21,
+      "endTime": "2026-06-18T03:53:12Z",
+      "message": "Slow refresh 73.21m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0009",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 47.6,
+      "endTime": "2026-06-24T01:53:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0009",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 91.67,
+      "endTime": "2026-06-27T03:54:40Z",
+      "message": "Slow refresh 91.67m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0009",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.4,
+      "endTime": "2026-06-30T01:01:24Z",
+      "message": "Slow refresh 61.4m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0010",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.78,
+      "endTime": "2026-06-03T20:55:46Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0010",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.84,
+      "endTime": "2026-06-13T00:51:50Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0010",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.92,
+      "endTime": "2026-06-19T22:15:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0011",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 61.78,
+      "endTime": "2026-06-12T22:20:46Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0011",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 33.22,
+      "endTime": "2026-06-15T14:39:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0011",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.13,
+      "endTime": "2026-06-17T18:45:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0012",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 37.96,
+      "endTime": "2026-06-03T04:58:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0012",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.55,
+      "endTime": "2026-06-04T04:57:33Z",
+      "message": "Slow refresh 63.55m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0012",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.23,
+      "endTime": "2026-06-28T09:18:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0013",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.12,
+      "endTime": "2026-06-05T04:51:07Z",
+      "message": "Slow refresh 75.12m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0013",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 91.74,
+      "endTime": "2026-06-15T06:43:44Z",
+      "message": "Slow refresh 91.74m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0013",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 125.28,
+      "endTime": "2026-06-22T09:21:16Z",
+      "message": "Slow refresh 125.28m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0014",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 42.73,
+      "endTime": "2026-06-25T07:26:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0014",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.15,
+      "endTime": "2026-06-29T04:54:09Z",
+      "message": "Slow refresh 60.15m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0015",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.89,
+      "endTime": "2026-06-04T05:59:53Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0016",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.07,
+      "endTime": "2026-06-12T02:10:04Z",
+      "message": "Slow refresh 61.07m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0016",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.23,
+      "endTime": "2026-06-18T15:15:13Z",
+      "message": "Slow refresh 60.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0017",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.82,
+      "endTime": "2026-06-29T20:40:49Z",
+      "message": "Slow refresh 64.82m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0018",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 98.98,
+      "endTime": "2026-06-05T04:08:58Z",
+      "message": "Slow refresh 98.98m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0018",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 117.13,
+      "endTime": "2026-06-16T07:21:07Z",
+      "message": "Slow refresh 117.13m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0019",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.23,
+      "endTime": "2026-06-08T16:59:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0019",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.65,
+      "endTime": "2026-06-15T07:14:39Z",
+      "message": "Slow refresh 65.65m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0020",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.06,
+      "endTime": "2026-06-07T00:52:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0020",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.96,
+      "endTime": "2026-06-12T10:53:57Z",
+      "message": "Slow refresh 72.96m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0021",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.5,
+      "endTime": "2026-06-08T01:33:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0021",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.61,
+      "endTime": "2026-06-10T12:57:36Z",
+      "message": "Slow refresh 67.61m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0021",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.93,
+      "endTime": "2026-06-24T00:05:55Z",
+      "message": "Slow refresh 61.93m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0021",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.51,
+      "endTime": "2026-06-26T04:56:30Z",
+      "message": "Slow refresh 61.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0022",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.52,
+      "endTime": "2026-06-23T22:04:31Z",
+      "message": "Slow refresh 65.52m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0022",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.5,
+      "endTime": "2026-06-24T05:54:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0022",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.03,
+      "endTime": "2026-06-26T05:07:01Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0023",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.23,
+      "endTime": "2026-06-02T20:53:13Z",
+      "message": "Slow refresh 82.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0023",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.3,
+      "endTime": "2026-06-04T16:25:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0023",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.82,
+      "endTime": "2026-06-14T00:02:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0023",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.28,
+      "endTime": "2026-06-20T01:21:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0023",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.93,
+      "endTime": "2026-06-23T15:52:55Z",
+      "message": "Slow refresh 65.93m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0024",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 40.5,
+      "endTime": "2026-06-05T11:05:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0024",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.71,
+      "endTime": "2026-06-06T06:44:42Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0024",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.41,
+      "endTime": "2026-06-07T16:16:24Z",
+      "message": "Slow refresh 67.41m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0025",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.7,
+      "endTime": "2026-06-04T01:13:42Z",
+      "message": "Slow refresh 74.7m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0025",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 63.47,
+      "endTime": "2026-06-06T03:16:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0025",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.59,
+      "endTime": "2026-06-14T11:07:35Z",
+      "message": "Slow refresh 72.59m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0025",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.4,
+      "endTime": "2026-06-15T05:50:24Z",
+      "message": "Slow refresh 64.4m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0025",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.25,
+      "endTime": "2026-06-19T22:58:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0026",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.48,
+      "endTime": "2026-06-11T08:05:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0026",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.58,
+      "endTime": "2026-06-16T09:35:34Z",
+      "message": "Slow refresh 85.58m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0026",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 173.65,
+      "endTime": "2026-06-23T15:47:39Z",
+      "message": "Slow refresh 173.65m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0027",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.15,
+      "endTime": "2026-06-04T20:19:09Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0027",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 80.93,
+      "endTime": "2026-06-05T01:31:55Z",
+      "message": "Slow refresh 80.93m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0027",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.81,
+      "endTime": "2026-06-07T04:46:48Z",
+      "message": "Slow refresh 75.81m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0027",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 44.11,
+      "endTime": "2026-06-30T14:21:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0028",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.82,
+      "endTime": "2026-06-02T14:45:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0028",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.29,
+      "endTime": "2026-06-23T23:37:17Z",
+      "message": "Slow refresh 63.29m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0028",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.96,
+      "endTime": "2026-06-28T10:56:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0029",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 65.52,
+      "endTime": "2026-06-12T06:36:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0029",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.8,
+      "endTime": "2026-06-26T16:10:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0030",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.48,
+      "endTime": "2026-06-10T04:24:28Z",
+      "message": "Slow refresh 70.48m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0030",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.09,
+      "endTime": "2026-06-15T03:44:05Z",
+      "message": "Slow refresh 62.09m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0030",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.28,
+      "endTime": "2026-06-26T22:17:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0031",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.43,
+      "endTime": "2026-06-09T08:09:25Z",
+      "message": "Slow refresh 60.43m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0031",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 69.1,
+      "endTime": "2026-06-23T12:39:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0032",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.07,
+      "endTime": "2026-06-04T09:13:04Z",
+      "message": "Slow refresh 62.07m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0032",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 78.73,
+      "endTime": "2026-06-06T01:19:43Z",
+      "message": "Slow refresh 78.73m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0032",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.28,
+      "endTime": "2026-06-16T12:12:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0032",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.06,
+      "endTime": "2026-06-28T17:57:03Z",
+      "message": "Slow refresh 68.06m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0033",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 33.69,
+      "endTime": "2026-06-14T11:49:41Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0033",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 76.5,
+      "endTime": "2026-06-25T20:09:30Z",
+      "message": "Slow refresh 76.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0034",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.02,
+      "endTime": "2026-06-07T16:23:01Z",
+      "message": "Slow refresh 67.02m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0034",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.13,
+      "endTime": "2026-06-27T03:25:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0035",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.63,
+      "endTime": "2026-06-09T09:21:37Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0035",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.41,
+      "endTime": "2026-06-16T00:19:24Z",
+      "message": "Slow refresh 62.41m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0035",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 92.56,
+      "endTime": "2026-06-27T01:58:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0036",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.48,
+      "endTime": "2026-06-03T20:41:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0036",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 123.79,
+      "endTime": "2026-06-08T19:08:47Z",
+      "message": "Slow refresh 123.79m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0036",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.38,
+      "endTime": "2026-06-10T12:32:22Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0036",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.25,
+      "endTime": "2026-06-13T16:35:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 77.23,
+      "endTime": "2026-06-06T01:50:13Z",
+      "message": "Slow refresh 77.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.5,
+      "endTime": "2026-06-10T16:20:30Z",
+      "message": "Slow refresh 66.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 33.56,
+      "endTime": "2026-06-14T07:13:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.97,
+      "endTime": "2026-06-16T11:19:58Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 88.74,
+      "endTime": "2026-06-21T18:46:44Z",
+      "message": "Slow refresh 88.74m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0037",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 24.46,
+      "endTime": "2026-06-30T12:15:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0038",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 24.18,
+      "endTime": "2026-06-24T19:20:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 92.78,
+      "endTime": "2026-06-04T12:14:46Z",
+      "message": "Slow refresh 92.78m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.93,
+      "endTime": "2026-06-05T23:02:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.32,
+      "endTime": "2026-06-06T05:28:19Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.0,
+      "endTime": "2026-06-07T04:49:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.62,
+      "endTime": "2026-06-09T13:04:37Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 144.8,
+      "endTime": "2026-06-10T09:23:48Z",
+      "message": "Slow refresh 144.8m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.8,
+      "endTime": "2026-06-15T22:06:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.73,
+      "endTime": "2026-06-18T11:17:43Z",
+      "message": "Slow refresh 66.73m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0039",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.51,
+      "endTime": "2026-06-20T08:05:30Z",
+      "message": "Slow refresh 64.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0040",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 48.07,
+      "endTime": "2026-06-23T00:51:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0041",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 144.32,
+      "endTime": "2026-06-09T10:23:19Z",
+      "message": "Slow refresh 144.32m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0041",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.8,
+      "endTime": "2026-06-25T13:40:48Z",
+      "message": "Slow refresh 73.8m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0042",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.97,
+      "endTime": "2026-06-05T00:57:58Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0042",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.39,
+      "endTime": "2026-06-07T04:01:23Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0042",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.14,
+      "endTime": "2026-06-28T13:15:08Z",
+      "message": "Slow refresh 75.14m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0043",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.04,
+      "endTime": "2026-06-15T04:22:02Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0044",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.54,
+      "endTime": "2026-06-07T19:45:32Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0044",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.89,
+      "endTime": "2026-06-09T22:42:53Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0044",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.18,
+      "endTime": "2026-06-14T01:42:10Z",
+      "message": "Slow refresh 68.18m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0045",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.85,
+      "endTime": "2026-06-03T03:46:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0045",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 128.01,
+      "endTime": "2026-06-05T04:15:00Z",
+      "message": "Slow refresh 128.01m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0045",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 79.95,
+      "endTime": "2026-06-10T23:24:57Z",
+      "message": "Slow refresh 79.95m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0045",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 32.49,
+      "endTime": "2026-06-12T07:45:29Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0045",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 102.36,
+      "endTime": "2026-06-13T12:45:21Z",
+      "message": "Slow refresh 102.36m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0046",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.28,
+      "endTime": "2026-06-17T15:38:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0046",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.75,
+      "endTime": "2026-06-25T15:19:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0047",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.46,
+      "endTime": "2026-06-03T13:21:27Z",
+      "message": "Slow refresh 63.46m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0048",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.44,
+      "endTime": "2026-06-09T06:23:26Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0048",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 43.5,
+      "endTime": "2026-06-11T08:19:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0048",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 79.08,
+      "endTime": "2026-06-25T23:00:04Z",
+      "message": "Slow refresh 79.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.91,
+      "endTime": "2026-06-09T06:33:54Z",
+      "message": "Slow refresh 61.91m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 31.47,
+      "endTime": "2026-06-11T04:31:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.85,
+      "endTime": "2026-06-12T03:19:51Z",
+      "message": "Slow refresh 69.85m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 44.09,
+      "endTime": "2026-06-18T04:01:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 47.43,
+      "endTime": "2026-06-19T08:29:25Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0049",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 96.67,
+      "endTime": "2026-06-22T10:34:40Z",
+      "message": "Slow refresh 96.67m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0050",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.03,
+      "endTime": "2026-06-14T09:05:01Z",
+      "message": "Slow refresh 68.03m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0050",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.43,
+      "endTime": "2026-06-16T00:28:25Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0050",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.26,
+      "endTime": "2026-06-16T16:25:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0050",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.8,
+      "endTime": "2026-06-19T21:55:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0050",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.08,
+      "endTime": "2026-06-29T13:11:04Z",
+      "message": "Slow refresh 67.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0051",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.6,
+      "endTime": "2026-06-26T23:31:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0052",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.47,
+      "endTime": "2026-06-23T03:03:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0053",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.08,
+      "endTime": "2026-06-21T01:07:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0053",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.73,
+      "endTime": "2026-06-25T03:48:43Z",
+      "message": "Slow refresh 61.73m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0054",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.64,
+      "endTime": "2026-06-10T15:58:38Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0054",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.95,
+      "endTime": "2026-06-12T19:55:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0054",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.23,
+      "endTime": "2026-06-18T00:49:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0055",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 42.59,
+      "endTime": "2026-06-07T05:29:35Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0055",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 40.53,
+      "endTime": "2026-06-14T21:15:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0055",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.0,
+      "endTime": "2026-06-16T09:43:00Z",
+      "message": "Slow refresh 68.0m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0055",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.34,
+      "endTime": "2026-06-20T01:08:20Z",
+      "message": "Slow refresh 73.34m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0056",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.94,
+      "endTime": "2026-06-01T01:57:56Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0056",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.1,
+      "endTime": "2026-06-02T08:50:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0056",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 106.74,
+      "endTime": "2026-06-07T12:39:44Z",
+      "message": "Slow refresh 106.74m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0056",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.45,
+      "endTime": "2026-06-14T06:32:27Z",
+      "message": "Slow refresh 72.45m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0056",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.02,
+      "endTime": "2026-06-24T11:55:01Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0057",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 77.37,
+      "endTime": "2026-06-02T11:07:22Z",
+      "message": "Slow refresh 77.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0057",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.31,
+      "endTime": "2026-06-05T05:13:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0057",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.55,
+      "endTime": "2026-06-07T22:28:33Z",
+      "message": "Slow refresh 64.55m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0057",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 71.12,
+      "endTime": "2026-06-22T12:14:07Z",
+      "message": "Slow refresh 71.12m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0058",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.66,
+      "endTime": "2026-06-04T19:42:39Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0058",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 41.84,
+      "endTime": "2026-06-19T10:33:50Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0058",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.34,
+      "endTime": "2026-06-27T05:25:20Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0059",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.95,
+      "endTime": "2026-06-02T13:50:57Z",
+      "message": "Slow refresh 65.95m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0059",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.68,
+      "endTime": "2026-06-11T09:06:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0059",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 116.68,
+      "endTime": "2026-06-19T18:00:40Z",
+      "message": "Slow refresh 116.68m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0060",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.53,
+      "endTime": "2026-06-06T20:57:31Z",
+      "message": "Slow refresh 75.53m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0060",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.62,
+      "endTime": "2026-06-20T23:11:37Z",
+      "message": "Slow refresh 70.62m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0060",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 50.72,
+      "endTime": "2026-06-24T16:53:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0060",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.04,
+      "endTime": "2026-06-27T18:12:02Z",
+      "message": "Slow refresh 62.04m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0060",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.9,
+      "endTime": "2026-06-29T15:34:54Z",
+      "message": "Slow refresh 61.9m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0061",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.11,
+      "endTime": "2026-06-09T15:44:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0062",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.82,
+      "endTime": "2026-06-19T19:19:49Z",
+      "message": "Slow refresh 69.82m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0062",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.61,
+      "endTime": "2026-06-23T22:10:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0062",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.32,
+      "endTime": "2026-06-29T14:00:19Z",
+      "message": "Slow refresh 68.32m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0063",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.26,
+      "endTime": "2026-06-07T12:05:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0063",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.25,
+      "endTime": "2026-06-09T20:47:15Z",
+      "message": "Slow refresh 63.25m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0063",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.23,
+      "endTime": "2026-06-28T04:50:13Z",
+      "message": "Slow refresh 85.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0064",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 44.73,
+      "endTime": "2026-06-27T21:31:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0065",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 78.51,
+      "endTime": "2026-06-05T06:23:30Z",
+      "message": "Slow refresh 78.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0065",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.47,
+      "endTime": "2026-06-06T14:58:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0065",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.81,
+      "endTime": "2026-06-10T20:26:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0065",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.81,
+      "endTime": "2026-06-24T23:27:48Z",
+      "message": "Slow refresh 75.81m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0066",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.95,
+      "endTime": "2026-06-01T11:42:57Z",
+      "message": "Slow refresh 63.95m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0066",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 32.11,
+      "endTime": "2026-06-02T21:38:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0066",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 79.58,
+      "endTime": "2026-06-13T11:04:34Z",
+      "message": "Slow refresh 79.58m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0067",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 91.9,
+      "endTime": "2026-06-02T06:27:54Z",
+      "message": "Slow refresh 91.9m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0067",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 54.54,
+      "endTime": "2026-06-07T03:37:32Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0067",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.53,
+      "endTime": "2026-06-13T05:22:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0067",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 39.99,
+      "endTime": "2026-06-15T05:16:59Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0068",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 106.02,
+      "endTime": "2026-06-04T09:59:01Z",
+      "message": "Slow refresh 106.02m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0068",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.37,
+      "endTime": "2026-06-07T09:37:22Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0068",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 33.94,
+      "endTime": "2026-06-16T07:48:56Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0068",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.48,
+      "endTime": "2026-06-19T17:17:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0068",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.53,
+      "endTime": "2026-06-23T08:40:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0069",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.3,
+      "endTime": "2026-06-05T06:25:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0069",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.2,
+      "endTime": "2026-06-06T15:32:12Z",
+      "message": "Slow refresh 66.2m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0069",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 93.64,
+      "endTime": "2026-06-14T06:25:38Z",
+      "message": "Slow refresh 93.64m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0071",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 69.86,
+      "endTime": "2026-06-02T00:06:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0071",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.16,
+      "endTime": "2026-06-04T13:56:09Z",
+      "message": "Slow refresh 68.16m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0071",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.15,
+      "endTime": "2026-06-09T21:21:09Z",
+      "message": "Slow refresh 85.15m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0071",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 40.01,
+      "endTime": "2026-06-27T14:30:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0072",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.16,
+      "endTime": "2026-06-06T03:52:09Z",
+      "message": "Slow refresh 73.16m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0072",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 40.1,
+      "endTime": "2026-06-13T05:14:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0072",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.86,
+      "endTime": "2026-06-20T09:07:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0072",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.12,
+      "endTime": "2026-06-23T07:30:07Z",
+      "message": "Slow refresh 63.12m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0072",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.59,
+      "endTime": "2026-06-24T21:09:35Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0073",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.45,
+      "endTime": "2026-06-03T15:11:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0073",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.26,
+      "endTime": "2026-06-08T01:05:15Z",
+      "message": "Slow refresh 61.26m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0073",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.08,
+      "endTime": "2026-06-12T20:27:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0073",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.44,
+      "endTime": "2026-06-29T02:25:26Z",
+      "message": "Slow refresh 60.44m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.5,
+      "endTime": "2026-06-02T15:22:30Z",
+      "message": "Slow refresh 73.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.82,
+      "endTime": "2026-06-05T23:18:49Z",
+      "message": "Slow refresh 65.82m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.96,
+      "endTime": "2026-06-10T09:15:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.79,
+      "endTime": "2026-06-11T21:23:47Z",
+      "message": "Slow refresh 60.79m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.82,
+      "endTime": "2026-06-16T16:53:49Z",
+      "message": "Slow refresh 60.82m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0074",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.2,
+      "endTime": "2026-06-21T01:44:12Z",
+      "message": "Slow refresh 72.2m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0075",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 79.51,
+      "endTime": "2026-06-03T14:25:30Z",
+      "message": "Slow refresh 79.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0075",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.25,
+      "endTime": "2026-06-24T14:25:15Z",
+      "message": "Slow refresh 85.25m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0076",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.64,
+      "endTime": "2026-06-08T04:35:38Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0076",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 67.55,
+      "endTime": "2026-06-13T22:40:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0076",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.68,
+      "endTime": "2026-06-23T04:31:40Z",
+      "message": "Slow refresh 74.68m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0076",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 9.72,
+      "endTime": "2026-06-28T00:56:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0076",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.2,
+      "endTime": "2026-06-29T06:46:12Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 47.17,
+      "endTime": "2026-06-02T22:14:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.08,
+      "endTime": "2026-06-09T19:29:04Z",
+      "message": "Slow refresh 82.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.96,
+      "endTime": "2026-06-11T02:58:57Z",
+      "message": "Slow refresh 85.96m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 31.31,
+      "endTime": "2026-06-13T08:52:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 46.44,
+      "endTime": "2026-06-16T22:03:26Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0077",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.85,
+      "endTime": "2026-06-24T15:23:51Z",
+      "message": "Slow refresh 82.85m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0078",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.83,
+      "endTime": "2026-06-24T02:11:49Z",
+      "message": "Slow refresh 73.83m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0078",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.51,
+      "endTime": "2026-06-29T07:50:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0080",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 7.67,
+      "endTime": "2026-06-02T18:57:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0080",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 113.03,
+      "endTime": "2026-06-05T01:56:01Z",
+      "message": "Slow refresh 113.03m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0080",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 140.82,
+      "endTime": "2026-06-13T02:00:49Z",
+      "message": "Slow refresh 140.82m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0080",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.58,
+      "endTime": "2026-06-15T03:54:34Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0081",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.49,
+      "endTime": "2026-06-03T03:03:29Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0081",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 104.72,
+      "endTime": "2026-06-08T23:37:43Z",
+      "message": "Slow refresh 104.72m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0082",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.96,
+      "endTime": "2026-06-04T13:52:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0082",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.3,
+      "endTime": "2026-06-26T04:36:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0083",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.39,
+      "endTime": "2026-06-04T00:32:23Z",
+      "message": "Slow refresh 66.39m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0083",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 78.42,
+      "endTime": "2026-06-18T03:09:25Z",
+      "message": "Slow refresh 78.42m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.08,
+      "endTime": "2026-06-01T16:24:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.41,
+      "endTime": "2026-06-02T20:48:24Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.0,
+      "endTime": "2026-06-03T04:37:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 200.64,
+      "endTime": "2026-06-05T02:14:38Z",
+      "message": "Slow refresh 200.64m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 89.33,
+      "endTime": "2026-06-12T10:24:19Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.43,
+      "endTime": "2026-06-13T04:13:25Z",
+      "message": "Slow refresh 72.43m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.91,
+      "endTime": "2026-06-20T15:32:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.06,
+      "endTime": "2026-06-23T15:04:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0084",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 77.31,
+      "endTime": "2026-06-27T04:52:18Z",
+      "message": "Slow refresh 77.31m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0085",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.57,
+      "endTime": "2026-06-01T10:29:34Z",
+      "message": "Slow refresh 68.57m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0085",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.61,
+      "endTime": "2026-06-04T23:04:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0085",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.55,
+      "endTime": "2026-06-28T06:27:33Z",
+      "message": "Slow refresh 69.55m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0086",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.03,
+      "endTime": "2026-06-05T05:53:01Z",
+      "message": "Slow refresh 65.03m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0086",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.64,
+      "endTime": "2026-06-20T19:41:38Z",
+      "message": "Slow refresh 82.64m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0087",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 100.19,
+      "endTime": "2026-06-13T07:16:11Z",
+      "message": "Slow refresh 100.19m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0087",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.48,
+      "endTime": "2026-06-30T01:05:28Z",
+      "message": "Slow refresh 63.48m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0088",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.89,
+      "endTime": "2026-06-01T15:31:53Z",
+      "message": "Slow refresh 61.89m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0088",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.17,
+      "endTime": "2026-06-09T04:18:10Z",
+      "message": "Slow refresh 61.17m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0088",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 7.85,
+      "endTime": "2026-06-22T01:07:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0088",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 110.69,
+      "endTime": "2026-06-25T15:07:41Z",
+      "message": "Slow refresh 110.69m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0089",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.92,
+      "endTime": "2026-06-13T01:41:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0089",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 46.08,
+      "endTime": "2026-06-14T05:40:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0089",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.17,
+      "endTime": "2026-06-23T10:30:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0089",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.48,
+      "endTime": "2026-06-25T06:24:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0090",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.1,
+      "endTime": "2026-06-09T02:53:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0090",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.24,
+      "endTime": "2026-06-13T02:13:14Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0090",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 31.25,
+      "endTime": "2026-06-26T12:19:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0091",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.7,
+      "endTime": "2026-06-02T00:28:42Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0091",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.78,
+      "endTime": "2026-06-04T04:32:46Z",
+      "message": "Slow refresh 63.78m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0091",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.08,
+      "endTime": "2026-06-13T02:39:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0092",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.94,
+      "endTime": "2026-06-12T19:31:56Z",
+      "message": "Slow refresh 73.94m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.92,
+      "endTime": "2026-06-13T05:13:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 68.83,
+      "endTime": "2026-06-14T11:49:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 109.37,
+      "endTime": "2026-06-15T17:43:22Z",
+      "message": "Slow refresh 109.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 9.01,
+      "endTime": "2026-06-19T16:58:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.49,
+      "endTime": "2026-06-23T08:46:29Z",
+      "message": "Slow refresh 62.49m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0093",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 95.21,
+      "endTime": "2026-06-30T19:18:12Z",
+      "message": "Slow refresh 95.21m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0094",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.95,
+      "endTime": "2026-06-03T08:16:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0094",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 93.86,
+      "endTime": "2026-06-07T07:56:51Z",
+      "message": "Slow refresh 93.86m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0094",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 86.52,
+      "endTime": "2026-06-08T08:30:31Z",
+      "message": "Slow refresh 86.52m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0095",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.18,
+      "endTime": "2026-06-13T14:20:10Z",
+      "message": "Slow refresh 64.18m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0095",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.5,
+      "endTime": "2026-06-24T18:33:30Z",
+      "message": "Slow refresh 66.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0096",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 71.98,
+      "endTime": "2026-06-15T03:40:58Z",
+      "message": "Slow refresh 71.98m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0096",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.75,
+      "endTime": "2026-06-16T02:32:45Z",
+      "message": "Slow refresh 64.75m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0097",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.01,
+      "endTime": "2026-06-06T00:38:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0097",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 55.52,
+      "endTime": "2026-06-11T06:05:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0097",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.6,
+      "endTime": "2026-06-20T08:11:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0097",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 59.52,
+      "endTime": "2026-06-24T13:18:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0098",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 42.82,
+      "endTime": "2026-06-04T01:56:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0098",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 52.49,
+      "endTime": "2026-06-07T11:32:29Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0098",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.73,
+      "endTime": "2026-06-09T22:59:43Z",
+      "message": "Slow refresh 70.73m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0098",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.58,
+      "endTime": "2026-06-14T13:46:34Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0099",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.87,
+      "endTime": "2026-06-05T18:47:52Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0099",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.05,
+      "endTime": "2026-06-06T22:05:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0100",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.32,
+      "endTime": "2026-06-10T01:36:19Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0100",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 111.92,
+      "endTime": "2026-06-12T09:43:55Z",
+      "message": "Slow refresh 111.92m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0100",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.1,
+      "endTime": "2026-06-21T00:25:06Z",
+      "message": "Slow refresh 61.1m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0101",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 43.94,
+      "endTime": "2026-06-07T17:48:56Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0101",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 77.35,
+      "endTime": "2026-06-16T10:30:21Z",
+      "message": "Slow refresh 77.35m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0101",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 116.19,
+      "endTime": "2026-06-20T22:17:11Z",
+      "message": "Slow refresh 116.19m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0101",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.81,
+      "endTime": "2026-06-24T21:31:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0101",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 144.6,
+      "endTime": "2026-06-27T10:28:36Z",
+      "message": "Slow refresh 144.6m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0102",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.56,
+      "endTime": "2026-06-03T18:48:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0102",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 81.5,
+      "endTime": "2026-06-04T13:37:30Z",
+      "message": "Slow refresh 81.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0102",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.09,
+      "endTime": "2026-06-13T05:21:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0102",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.73,
+      "endTime": "2026-06-26T00:43:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0103",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.07,
+      "endTime": "2026-06-01T12:02:04Z",
+      "message": "Slow refresh 67.07m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0103",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.31,
+      "endTime": "2026-06-04T05:33:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0103",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.18,
+      "endTime": "2026-06-24T14:45:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0104",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.21,
+      "endTime": "2026-06-10T13:38:12Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0104",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 91.65,
+      "endTime": "2026-06-12T22:57:39Z",
+      "message": "Slow refresh 91.65m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0104",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 9.27,
+      "endTime": "2026-06-30T05:31:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0105",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 91.76,
+      "endTime": "2026-06-15T23:16:45Z",
+      "message": "Slow refresh 91.76m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0105",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 111.45,
+      "endTime": "2026-06-19T16:59:27Z",
+      "message": "Slow refresh 111.45m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0106",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.09,
+      "endTime": "2026-06-02T06:25:05Z",
+      "message": "Slow refresh 67.09m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0106",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.05,
+      "endTime": "2026-06-09T18:17:03Z",
+      "message": "Slow refresh 85.05m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0106",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.13,
+      "endTime": "2026-06-15T09:05:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0107",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 55.35,
+      "endTime": "2026-06-17T17:55:21Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0107",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.15,
+      "endTime": "2026-06-22T02:15:09Z",
+      "message": "Slow refresh 67.15m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0107",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.13,
+      "endTime": "2026-06-28T19:17:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0109",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.82,
+      "endTime": "2026-06-14T21:22:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0109",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.4,
+      "endTime": "2026-06-25T18:36:24Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0110",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 97.24,
+      "endTime": "2026-06-01T03:14:14Z",
+      "message": "Slow refresh 97.24m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0110",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.72,
+      "endTime": "2026-06-22T16:12:43Z",
+      "message": "Slow refresh 60.72m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0111",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.88,
+      "endTime": "2026-06-19T18:21:52Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0111",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.18,
+      "endTime": "2026-06-24T23:08:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0111",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.53,
+      "endTime": "2026-06-25T14:04:31Z",
+      "message": "Slow refresh 72.53m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0112",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.99,
+      "endTime": "2026-06-04T20:02:59Z",
+      "message": "Slow refresh 64.99m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0112",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.48,
+      "endTime": "2026-06-09T19:22:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0112",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.69,
+      "endTime": "2026-06-11T13:19:41Z",
+      "message": "Slow refresh 70.69m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0112",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.85,
+      "endTime": "2026-06-13T00:43:51Z",
+      "message": "Slow refresh 62.85m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0113",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.51,
+      "endTime": "2026-06-04T06:42:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0113",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.13,
+      "endTime": "2026-06-11T21:52:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0114",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.46,
+      "endTime": "2026-06-15T04:44:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0114",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.73,
+      "endTime": "2026-06-29T23:30:43Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.4,
+      "endTime": "2026-06-05T15:33:24Z",
+      "message": "Slow refresh 63.4m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 60.64,
+      "endTime": "2026-06-07T00:34:38Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.85,
+      "endTime": "2026-06-09T20:06:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 46.8,
+      "endTime": "2026-06-15T14:42:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.35,
+      "endTime": "2026-06-26T00:42:21Z",
+      "message": "Slow refresh 66.35m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0115",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 50.34,
+      "endTime": "2026-06-26T09:28:20Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0116",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 87.33,
+      "endTime": "2026-06-12T02:21:19Z",
+      "message": "Slow refresh 87.33m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0116",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.68,
+      "endTime": "2026-06-17T05:39:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0116",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.95,
+      "endTime": "2026-06-24T06:59:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0116",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.68,
+      "endTime": "2026-06-26T23:15:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0117",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 7.47,
+      "endTime": "2026-06-04T10:40:28Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0117",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 76.0,
+      "endTime": "2026-06-18T03:01:00Z",
+      "message": "Slow refresh 76.0m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0117",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 77.5,
+      "endTime": "2026-06-20T15:45:30Z",
+      "message": "Slow refresh 77.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0117",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.46,
+      "endTime": "2026-06-27T04:33:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0118",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.57,
+      "endTime": "2026-06-11T09:05:34Z",
+      "message": "Slow refresh 63.57m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0118",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.31,
+      "endTime": "2026-06-15T18:43:18Z",
+      "message": "Slow refresh 65.31m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0118",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.59,
+      "endTime": "2026-06-20T16:42:35Z",
+      "message": "Slow refresh 70.59m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0119",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.15,
+      "endTime": "2026-06-09T04:23:09Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0119",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.89,
+      "endTime": "2026-06-12T09:13:53Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0119",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.76,
+      "endTime": "2026-06-27T02:47:45Z",
+      "message": "Slow refresh 63.76m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0120",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.41,
+      "endTime": "2026-06-04T11:24:24Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0120",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 9.53,
+      "endTime": "2026-06-11T01:29:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0121",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.15,
+      "endTime": "2026-06-06T20:38:09Z",
+      "message": "Slow refresh 60.15m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0121",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.9,
+      "endTime": "2026-06-21T01:19:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0121",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.3,
+      "endTime": "2026-06-25T03:16:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0122",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.72,
+      "endTime": "2026-06-03T16:54:43Z",
+      "message": "Slow refresh 61.72m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0123",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.42,
+      "endTime": "2026-06-03T12:05:25Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0123",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.11,
+      "endTime": "2026-06-18T12:07:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0123",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 50.14,
+      "endTime": "2026-06-30T15:08:08Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0124",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 113.59,
+      "endTime": "2026-06-03T04:13:35Z",
+      "message": "Slow refresh 113.59m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0124",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.92,
+      "endTime": "2026-06-08T19:27:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0124",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.65,
+      "endTime": "2026-06-09T04:11:39Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0124",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.86,
+      "endTime": "2026-06-12T16:01:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0124",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 75.15,
+      "endTime": "2026-06-21T07:58:09Z",
+      "message": "Slow refresh 75.15m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0125",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.56,
+      "endTime": "2026-06-05T11:11:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0125",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 70.33,
+      "endTime": "2026-06-12T19:28:19Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0125",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.08,
+      "endTime": "2026-06-14T06:06:04Z",
+      "message": "Slow refresh 74.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0126",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 107.56,
+      "endTime": "2026-06-04T18:32:33Z",
+      "message": "Slow refresh 107.56m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0126",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.58,
+      "endTime": "2026-06-06T10:25:34Z",
+      "message": "Slow refresh 69.58m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0126",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.21,
+      "endTime": "2026-06-09T15:42:12Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0126",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 44.71,
+      "endTime": "2026-06-11T16:37:42Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0127",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 92.92,
+      "endTime": "2026-06-02T16:38:55Z",
+      "message": "Slow refresh 92.92m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0127",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.12,
+      "endTime": "2026-06-21T00:01:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0127",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 44.18,
+      "endTime": "2026-06-21T23:40:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0127",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 119.72,
+      "endTime": "2026-06-26T02:04:43Z",
+      "message": "Slow refresh 119.72m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0127",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.23,
+      "endTime": "2026-06-27T17:15:13Z",
+      "message": "Slow refresh 68.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0128",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 79.7,
+      "endTime": "2026-06-01T05:27:42Z",
+      "message": "Slow refresh 79.7m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0128",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 43.77,
+      "endTime": "2026-06-04T02:05:46Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0128",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 25.56,
+      "endTime": "2026-06-13T13:53:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0128",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 39.05,
+      "endTime": "2026-06-17T11:17:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0128",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 64.76,
+      "endTime": "2026-06-20T11:34:45Z",
+      "message": "Slow refresh 64.76m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0129",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 39.31,
+      "endTime": "2026-06-03T14:22:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0129",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.67,
+      "endTime": "2026-06-19T17:30:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0130",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 90.26,
+      "endTime": "2026-06-10T11:02:15Z",
+      "message": "Slow refresh 90.26m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0130",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.91,
+      "endTime": "2026-06-11T20:09:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0130",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.0,
+      "endTime": "2026-06-16T09:12:00Z",
+      "message": "Slow refresh 74.0m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0130",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.11,
+      "endTime": "2026-06-17T15:36:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0130",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 88.5,
+      "endTime": "2026-06-19T14:25:30Z",
+      "message": "Slow refresh 88.5m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0131",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 76.71,
+      "endTime": "2026-06-01T01:54:42Z",
+      "message": "Slow refresh 76.71m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0131",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.5,
+      "endTime": "2026-06-03T08:11:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0131",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.76,
+      "endTime": "2026-06-04T17:58:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0131",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.75,
+      "endTime": "2026-06-11T20:53:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0131",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.33,
+      "endTime": "2026-06-25T05:50:19Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0132",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.58,
+      "endTime": "2026-06-03T12:48:34Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0132",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 71.45,
+      "endTime": "2026-06-13T12:39:27Z",
+      "message": "Slow refresh 71.45m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0132",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.54,
+      "endTime": "2026-06-19T02:24:32Z",
+      "message": "Slow refresh 65.54m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0132",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.73,
+      "endTime": "2026-06-21T11:49:43Z",
+      "message": "Slow refresh 65.73m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0134",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.71,
+      "endTime": "2026-06-03T01:16:42Z",
+      "message": "Slow refresh 74.71m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0134",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 76.14,
+      "endTime": "2026-06-07T14:53:08Z",
+      "message": "Slow refresh 76.14m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0134",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.95,
+      "endTime": "2026-06-16T11:13:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0134",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.39,
+      "endTime": "2026-06-23T06:10:23Z",
+      "message": "Slow refresh 72.39m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0135",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.97,
+      "endTime": "2026-06-10T21:51:58Z",
+      "message": "Slow refresh 66.97m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0135",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 47.66,
+      "endTime": "2026-06-13T21:55:39Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0135",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.12,
+      "endTime": "2026-06-15T03:16:07Z",
+      "message": "Slow refresh 73.12m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0135",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.8,
+      "endTime": "2026-06-26T11:17:48Z",
+      "message": "Slow refresh 60.8m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0136",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.83,
+      "endTime": "2026-06-01T06:47:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0136",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.43,
+      "endTime": "2026-06-12T19:11:25Z",
+      "message": "Slow refresh 74.43m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0136",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.79,
+      "endTime": "2026-06-25T00:44:47Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0137",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.17,
+      "endTime": "2026-06-01T02:03:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0137",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 41.94,
+      "endTime": "2026-06-08T14:06:56Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0137",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.8,
+      "endTime": "2026-06-15T17:49:48Z",
+      "message": "Slow refresh 72.8m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0137",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.71,
+      "endTime": "2026-06-17T09:34:42Z",
+      "message": "Slow refresh 65.71m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0138",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 30.95,
+      "endTime": "2026-06-10T03:21:57Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0138",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 134.83,
+      "endTime": "2026-06-11T08:26:49Z",
+      "message": "Slow refresh 134.83m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0138",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.33,
+      "endTime": "2026-06-20T18:18:19Z",
+      "message": "Slow refresh 63.33m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0139",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.37,
+      "endTime": "2026-06-03T15:05:22Z",
+      "message": "Slow refresh 74.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0139",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.38,
+      "endTime": "2026-06-19T17:00:22Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0139",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.56,
+      "endTime": "2026-06-20T00:40:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0139",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.37,
+      "endTime": "2026-06-21T12:17:22Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0140",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.04,
+      "endTime": "2026-06-05T09:06:02Z",
+      "message": "Slow refresh 69.04m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0140",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.36,
+      "endTime": "2026-06-22T14:35:21Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0140",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 67.18,
+      "endTime": "2026-06-26T02:21:10Z",
+      "message": "Slow refresh 67.18m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0140",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.51,
+      "endTime": "2026-06-29T19:51:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0141",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.06,
+      "endTime": "2026-06-04T03:38:03Z",
+      "message": "Slow refresh 60.06m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0141",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 106.91,
+      "endTime": "2026-06-18T16:15:54Z",
+      "message": "Slow refresh 106.91m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0142",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 51.28,
+      "endTime": "2026-06-19T09:01:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0142",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 132.37,
+      "endTime": "2026-06-21T02:42:22Z",
+      "message": "Slow refresh 132.37m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0143",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.45,
+      "endTime": "2026-06-05T11:43:27Z",
+      "message": "Slow refresh 62.45m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0143",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 9.59,
+      "endTime": "2026-06-12T16:54:35Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0143",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.03,
+      "endTime": "2026-06-29T20:39:01Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0144",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.27,
+      "endTime": "2026-06-02T04:42:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0144",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.86,
+      "endTime": "2026-06-12T01:58:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0144",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.19,
+      "endTime": "2026-06-19T09:33:11Z",
+      "message": "Slow refresh 73.19m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0145",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 7.76,
+      "endTime": "2026-06-01T04:27:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0145",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 86.84,
+      "endTime": "2026-06-25T17:58:50Z",
+      "message": "Slow refresh 86.84m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0146",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.63,
+      "endTime": "2026-06-05T10:37:37Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0146",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.81,
+      "endTime": "2026-06-09T07:44:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0146",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.22,
+      "endTime": "2026-06-17T08:19:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0146",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 73.71,
+      "endTime": "2026-06-30T18:48:42Z",
+      "message": "Slow refresh 73.71m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0147",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.82,
+      "endTime": "2026-06-11T13:08:49Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0147",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 28.93,
+      "endTime": "2026-06-14T07:33:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0148",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.17,
+      "endTime": "2026-06-04T18:43:10Z",
+      "message": "Slow refresh 74.17m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0148",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 81.03,
+      "endTime": "2026-06-14T13:24:01Z",
+      "message": "Slow refresh 81.03m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0149",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 33.53,
+      "endTime": "2026-06-02T02:52:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0149",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.08,
+      "endTime": "2026-06-18T04:12:04Z",
+      "message": "Slow refresh 70.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0149",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.22,
+      "endTime": "2026-06-28T22:09:13Z",
+      "message": "Slow refresh 60.22m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0150",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.67,
+      "endTime": "2026-06-14T00:30:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0150",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 48.58,
+      "endTime": "2026-06-25T12:48:34Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0151",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 122.99,
+      "endTime": "2026-06-01T16:08:59Z",
+      "message": "Slow refresh 122.99m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0151",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 123.84,
+      "endTime": "2026-06-15T12:29:50Z",
+      "message": "Slow refresh 123.84m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0151",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 32.06,
+      "endTime": "2026-06-20T07:17:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0152",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 106.02,
+      "endTime": "2026-06-11T05:15:01Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0152",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 81.51,
+      "endTime": "2026-06-14T22:36:30Z",
+      "message": "Slow refresh 81.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0152",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.78,
+      "endTime": "2026-06-28T15:57:46Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0153",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.19,
+      "endTime": "2026-06-09T03:02:11Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0153",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 42.09,
+      "endTime": "2026-06-11T16:37:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0153",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.95,
+      "endTime": "2026-06-25T08:51:57Z",
+      "message": "Slow refresh 82.95m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0154",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.99,
+      "endTime": "2026-06-01T21:44:59Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0154",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 82.97,
+      "endTime": "2026-06-27T12:48:58Z",
+      "message": "Slow refresh 82.97m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0155",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.19,
+      "endTime": "2026-06-07T07:53:11Z",
+      "message": "Slow refresh 66.19m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0155",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 101.64,
+      "endTime": "2026-06-11T18:55:38Z",
+      "message": "Slow refresh 101.64m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0155",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 57.34,
+      "endTime": "2026-06-17T18:19:20Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0155",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.65,
+      "endTime": "2026-06-27T11:37:39Z",
+      "message": "Slow refresh 60.65m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0156",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.57,
+      "endTime": "2026-06-29T20:39:34Z",
+      "message": "Slow refresh 66.57m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0157",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 111.35,
+      "endTime": "2026-06-04T11:50:21Z",
+      "message": "Slow refresh 111.35m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0157",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 58.74,
+      "endTime": "2026-06-07T04:13:44Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0157",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.8,
+      "endTime": "2026-06-08T09:08:48Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0157",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.88,
+      "endTime": "2026-06-15T01:47:52Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0158",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 15.18,
+      "endTime": "2026-06-08T12:47:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0158",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 23.9,
+      "endTime": "2026-06-23T13:31:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0158",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 40.71,
+      "endTime": "2026-06-28T22:45:42Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0159",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 53.93,
+      "endTime": "2026-06-08T17:48:55Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0159",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.0,
+      "endTime": "2026-06-16T10:53:00Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0159",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.95,
+      "endTime": "2026-06-24T23:45:57Z",
+      "message": "Slow refresh 60.95m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0160",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.1,
+      "endTime": "2026-06-19T22:10:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0160",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 7.05,
+      "endTime": "2026-06-25T16:42:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0160",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 71.2,
+      "endTime": "2026-06-26T21:09:12Z",
+      "message": "Slow refresh 71.2m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0161",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.86,
+      "endTime": "2026-06-27T15:13:51Z",
+      "message": "Slow refresh 68.86m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0161",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 18.24,
+      "endTime": "2026-06-28T14:35:14Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0162",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 107.18,
+      "endTime": "2026-06-03T13:49:10Z",
+      "message": "Slow refresh 107.18m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0162",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 114.89,
+      "endTime": "2026-06-27T00:56:53Z",
+      "message": "Slow refresh 114.89m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0163",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.99,
+      "endTime": "2026-06-12T02:29:59Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0164",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.47,
+      "endTime": "2026-06-05T22:55:28Z",
+      "message": "Slow refresh 62.47m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0164",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 85.92,
+      "endTime": "2026-06-18T12:10:55Z",
+      "message": "Slow refresh 85.92m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0164",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 34.4,
+      "endTime": "2026-06-22T10:19:24Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0164",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.09,
+      "endTime": "2026-06-27T06:00:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0165",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.87,
+      "endTime": "2026-06-07T15:05:52Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0165",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.35,
+      "endTime": "2026-06-22T00:22:21Z",
+      "message": "Slow refresh 61.35m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0165",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.51,
+      "endTime": "2026-06-28T05:39:30Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0167",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 98.79,
+      "endTime": "2026-06-12T15:39:47Z",
+      "message": "Slow refresh 98.79m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0167",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 12.13,
+      "endTime": "2026-06-19T04:08:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0167",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.1,
+      "endTime": "2026-06-30T05:00:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 64.09,
+      "endTime": "2026-06-03T04:35:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 90.35,
+      "endTime": "2026-06-08T00:25:21Z",
+      "message": "Slow refresh 90.35m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 21.31,
+      "endTime": "2026-06-13T02:27:18Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 26.9,
+      "endTime": "2026-06-15T07:57:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.75,
+      "endTime": "2026-06-19T08:53:45Z",
+      "message": "Slow refresh 66.75m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0169",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 129.63,
+      "endTime": "2026-06-30T14:35:37Z",
+      "message": "Slow refresh 129.63m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0170",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.59,
+      "endTime": "2026-06-19T21:21:35Z",
+      "message": "Slow refresh 65.59m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0170",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.08,
+      "endTime": "2026-06-21T08:22:04Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0170",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 66.22,
+      "endTime": "2026-06-24T12:35:13Z",
+      "message": "Slow refresh 66.22m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0171",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.32,
+      "endTime": "2026-06-06T15:17:19Z",
+      "message": "Slow refresh 69.32m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0171",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 94.44,
+      "endTime": "2026-06-08T13:31:26Z",
+      "message": "Slow refresh 94.44m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0171",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 70.34,
+      "endTime": "2026-06-14T07:19:20Z",
+      "message": "Slow refresh 70.34m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0172",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.65,
+      "endTime": "2026-06-04T15:04:39Z",
+      "message": "Slow refresh 63.65m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0172",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 19.11,
+      "endTime": "2026-06-05T00:55:06Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0172",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.55,
+      "endTime": "2026-06-08T03:51:33Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0172",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.27,
+      "endTime": "2026-06-11T16:06:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0172",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 24.16,
+      "endTime": "2026-06-12T15:16:09Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0173",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.87,
+      "endTime": "2026-06-27T22:17:52Z",
+      "message": "Slow refresh 74.87m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0174",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.94,
+      "endTime": "2026-06-14T15:13:56Z",
+      "message": "Slow refresh 62.94m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0174",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 60.6,
+      "endTime": "2026-06-16T11:12:36Z",
+      "message": "Slow refresh 60.6m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0174",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 63.28,
+      "endTime": "2026-06-27T01:18:16Z",
+      "message": "Slow refresh 63.28m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0175",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 10.89,
+      "endTime": "2026-06-13T04:59:53Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0175",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 68.06,
+      "endTime": "2026-06-29T00:57:03Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0176",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 20.28,
+      "endTime": "2026-06-05T23:33:16Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0176",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 61.34,
+      "endTime": "2026-06-11T03:14:20Z",
+      "message": "Slow refresh 61.34m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0176",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.23,
+      "endTime": "2026-06-18T17:35:13Z",
+      "message": "Slow refresh 74.23m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0177",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 24.61,
+      "endTime": "2026-06-05T00:31:36Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0177",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 24.71,
+      "endTime": "2026-06-29T20:34:42Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0178",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 17.75,
+      "endTime": "2026-06-04T01:36:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0178",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.51,
+      "endTime": "2026-06-24T15:00:30Z",
+      "message": "Slow refresh 62.51m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0178",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.03,
+      "endTime": "2026-06-26T03:15:01Z",
+      "message": "Slow refresh 65.03m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0179",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 62.29,
+      "endTime": "2026-06-11T20:42:17Z",
+      "message": "Slow refresh 62.29m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0179",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 49.58,
+      "endTime": "2026-06-18T20:07:34Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0179",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 68.52,
+      "endTime": "2026-06-29T19:40:31Z",
+      "message": "Slow refresh 68.52m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0180",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 51.59,
+      "endTime": "2026-06-05T09:06:35Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0180",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.53,
+      "endTime": "2026-06-09T05:20:31Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0180",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.49,
+      "endTime": "2026-06-17T00:09:29Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0181",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.46,
+      "endTime": "2026-06-04T15:38:27Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0181",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 31.2,
+      "endTime": "2026-06-08T11:50:12Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0181",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 93.66,
+      "endTime": "2026-06-12T15:28:39Z",
+      "message": "Slow refresh 93.66m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0181",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 29.17,
+      "endTime": "2026-07-01T00:16:10Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0182",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 99.83,
+      "endTime": "2026-06-01T06:45:49Z",
+      "message": "Slow refresh 99.83m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0182",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 14.34,
+      "endTime": "2026-06-08T16:33:20Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0182",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 38.86,
+      "endTime": "2026-06-10T00:46:51Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0182",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 35.49,
+      "endTime": "2026-06-24T21:21:29Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0182",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 74.08,
+      "endTime": "2026-06-26T09:27:04Z",
+      "message": "Slow refresh 74.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0183",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 11.12,
+      "endTime": "2026-06-20T19:20:07Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0183",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 52.99,
+      "endTime": "2026-06-21T19:17:59Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0184",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 22.22,
+      "endTime": "2026-06-04T09:02:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0184",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 48.91,
+      "endTime": "2026-06-19T18:26:54Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0185",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 69.79,
+      "endTime": "2026-06-09T07:13:47Z",
+      "message": "Slow refresh 69.79m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0185",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.09,
+      "endTime": "2026-06-12T13:55:05Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0185",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 27.26,
+      "endTime": "2026-06-19T03:23:15Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0186",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 65.62,
+      "endTime": "2026-06-02T02:44:37Z",
+      "message": "Slow refresh 65.62m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0186",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 72.86,
+      "endTime": "2026-06-09T11:58:51Z",
+      "message": "Slow refresh 72.86m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0186",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 16.75,
+      "endTime": "2026-06-16T06:12:45Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0187",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 87.93,
+      "endTime": "2026-06-18T11:27:55Z",
+      "message": "Slow refresh 87.93m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0187",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 50.22,
+      "endTime": "2026-06-19T08:11:13Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0188",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 13.67,
+      "endTime": "2026-06-11T00:30:40Z",
+      "message": "Refresh FAILED"
+    },
+    {
+      "datasetId": "ds-0188",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 161.84,
+      "endTime": "2026-06-17T10:07:50Z",
+      "message": "Slow refresh 161.84m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0188",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 96.08,
+      "endTime": "2026-06-18T22:37:04Z",
+      "message": "Slow refresh 96.08m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0189",
+      "severity": "warning",
+      "status": "Completed",
+      "durationMinutes": 102.66,
+      "endTime": "2026-06-07T14:25:39Z",
+      "message": "Slow refresh 102.66m > p95 59.9m"
+    },
+    {
+      "datasetId": "ds-0189",
+      "severity": "critical",
+      "status": "Failed",
+      "durationMinutes": 8.8,
+      "endTime": "2026-06-17T03:34:48Z",
+      "message": "Refresh FAILED"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Deployment Pipeline Guide (dev/test/prod)
+Promotion flow: DEV → TEST → PROD. Rules: only workspace Admins promote; TEST sign-off required before PROD; parameter rules rebind server/database and data-source credentials per stage (see deployment_pipelines/*.json); PROD is view-only for Members. Differences: dev uses sample data + manual refresh; test uses masked data + scheduled refresh; prod uses live gateway + incremental refresh.

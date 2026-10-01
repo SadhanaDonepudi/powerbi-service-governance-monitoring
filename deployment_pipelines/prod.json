@@ -1,0 +1,1 @@
+{"stage":"prod","workspaceId":"ws-prod","parameters":{"Server":"sql-prod.example"},"refresh":"Scheduled-Incremental","gateway":"gateway-prod"}

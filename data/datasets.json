@@ -1,0 +1,1516 @@
+{
+  "value": [
+    {
+      "id": "ds-0001",
+      "name": "Finance Reporting Dataset 1",
+      "workspaceId": "ws-001",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-001/datasets/ds-0001"
+    },
+    {
+      "id": "ds-0002",
+      "name": "Finance Reporting Dataset 2",
+      "workspaceId": "ws-001",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-001/datasets/ds-0002"
+    },
+    {
+      "id": "ds-0003",
+      "name": "Finance Reporting Dataset 3",
+      "workspaceId": "ws-001",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-001/datasets/ds-0003"
+    },
+    {
+      "id": "ds-0004",
+      "name": "Finance Reporting Dataset 4",
+      "workspaceId": "ws-001",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-001/datasets/ds-0004"
+    },
+    {
+      "id": "ds-0005",
+      "name": "Sales Analytics Dataset 5",
+      "workspaceId": "ws-002",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-002/datasets/ds-0005"
+    },
+    {
+      "id": "ds-0006",
+      "name": "Sales Analytics Dataset 6",
+      "workspaceId": "ws-002",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-002/datasets/ds-0006"
+    },
+    {
+      "id": "ds-0007",
+      "name": "HR People Metrics Dataset 7",
+      "workspaceId": "ws-003",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-003/datasets/ds-0007"
+    },
+    {
+      "id": "ds-0008",
+      "name": "HR People Metrics Dataset 8",
+      "workspaceId": "ws-003",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-003/datasets/ds-0008"
+    },
+    {
+      "id": "ds-0009",
+      "name": "HR People Metrics Dataset 9",
+      "workspaceId": "ws-003",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-003/datasets/ds-0009"
+    },
+    {
+      "id": "ds-0010",
+      "name": "Operations Control Dataset 10",
+      "workspaceId": "ws-004",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-004/datasets/ds-0010"
+    },
+    {
+      "id": "ds-0011",
+      "name": "Operations Control Dataset 11",
+      "workspaceId": "ws-004",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-004/datasets/ds-0011"
+    },
+    {
+      "id": "ds-0012",
+      "name": "Operations Control Dataset 12",
+      "workspaceId": "ws-004",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-004/datasets/ds-0012"
+    },
+    {
+      "id": "ds-0013",
+      "name": "Supply Chain Insights Dataset 13",
+      "workspaceId": "ws-005",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-005/datasets/ds-0013"
+    },
+    {
+      "id": "ds-0014",
+      "name": "Supply Chain Insights Dataset 14",
+      "workspaceId": "ws-005",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-005/datasets/ds-0014"
+    },
+    {
+      "id": "ds-0015",
+      "name": "Marketing Funnels Dataset 15",
+      "workspaceId": "ws-006",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-006/datasets/ds-0015"
+    },
+    {
+      "id": "ds-0016",
+      "name": "Marketing Funnels Dataset 16",
+      "workspaceId": "ws-006",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-006/datasets/ds-0016"
+    },
+    {
+      "id": "ds-0017",
+      "name": "Marketing Funnels Dataset 17",
+      "workspaceId": "ws-006",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-006/datasets/ds-0017"
+    },
+    {
+      "id": "ds-0018",
+      "name": "Customer Success Dataset 18",
+      "workspaceId": "ws-007",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-007/datasets/ds-0018"
+    },
+    {
+      "id": "ds-0019",
+      "name": "Customer Success Dataset 19",
+      "workspaceId": "ws-007",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-007/datasets/ds-0019"
+    },
+    {
+      "id": "ds-0020",
+      "name": "Risk & Compliance Dataset 20",
+      "workspaceId": "ws-008",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-008/datasets/ds-0020"
+    },
+    {
+      "id": "ds-0021",
+      "name": "Risk & Compliance Dataset 21",
+      "workspaceId": "ws-008",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-008/datasets/ds-0021"
+    },
+    {
+      "id": "ds-0022",
+      "name": "Risk & Compliance Dataset 22",
+      "workspaceId": "ws-008",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-008/datasets/ds-0022"
+    },
+    {
+      "id": "ds-0023",
+      "name": "Clinical Quality Dataset 23",
+      "workspaceId": "ws-009",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-009/datasets/ds-0023"
+    },
+    {
+      "id": "ds-0024",
+      "name": "Clinical Quality Dataset 24",
+      "workspaceId": "ws-009",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-009/datasets/ds-0024"
+    },
+    {
+      "id": "ds-0025",
+      "name": "Clinical Quality Dataset 25",
+      "workspaceId": "ws-009",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-009/datasets/ds-0025"
+    },
+    {
+      "id": "ds-0026",
+      "name": "Clinical Quality Dataset 26",
+      "workspaceId": "ws-009",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-009/datasets/ds-0026"
+    },
+    {
+      "id": "ds-0027",
+      "name": "Executive Dashboards Dataset 27",
+      "workspaceId": "ws-010",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-010/datasets/ds-0027"
+    },
+    {
+      "id": "ds-0028",
+      "name": "Executive Dashboards Dataset 28",
+      "workspaceId": "ws-010",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-010/datasets/ds-0028"
+    },
+    {
+      "id": "ds-0029",
+      "name": "Executive Dashboards Dataset 29",
+      "workspaceId": "ws-010",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-010/datasets/ds-0029"
+    },
+    {
+      "id": "ds-0030",
+      "name": "Product Telemetry Dataset 30",
+      "workspaceId": "ws-011",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-011/datasets/ds-0030"
+    },
+    {
+      "id": "ds-0031",
+      "name": "Product Telemetry Dataset 31",
+      "workspaceId": "ws-011",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-011/datasets/ds-0031"
+    },
+    {
+      "id": "ds-0032",
+      "name": "Product Telemetry Dataset 32",
+      "workspaceId": "ws-011",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-011/datasets/ds-0032"
+    },
+    {
+      "id": "ds-0033",
+      "name": "Product Telemetry Dataset 33",
+      "workspaceId": "ws-011",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-011/datasets/ds-0033"
+    },
+    {
+      "id": "ds-0034",
+      "name": "Revenue Assurance Dataset 34",
+      "workspaceId": "ws-012",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-012/datasets/ds-0034"
+    },
+    {
+      "id": "ds-0035",
+      "name": "Revenue Assurance Dataset 35",
+      "workspaceId": "ws-012",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-012/datasets/ds-0035"
+    },
+    {
+      "id": "ds-0036",
+      "name": "Revenue Assurance Dataset 36",
+      "workspaceId": "ws-012",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-012/datasets/ds-0036"
+    },
+    {
+      "id": "ds-0037",
+      "name": "Inventory Planning Dataset 37",
+      "workspaceId": "ws-013",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-013/datasets/ds-0037"
+    },
+    {
+      "id": "ds-0038",
+      "name": "Inventory Planning Dataset 38",
+      "workspaceId": "ws-013",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-013/datasets/ds-0038"
+    },
+    {
+      "id": "ds-0039",
+      "name": "Procurement Spend Dataset 39",
+      "workspaceId": "ws-014",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-014/datasets/ds-0039"
+    },
+    {
+      "id": "ds-0040",
+      "name": "Procurement Spend Dataset 40",
+      "workspaceId": "ws-014",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-014/datasets/ds-0040"
+    },
+    {
+      "id": "ds-0041",
+      "name": "Support Analytics Dataset 41",
+      "workspaceId": "ws-015",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-015/datasets/ds-0041"
+    },
+    {
+      "id": "ds-0042",
+      "name": "Support Analytics Dataset 42",
+      "workspaceId": "ws-015",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-015/datasets/ds-0042"
+    },
+    {
+      "id": "ds-0043",
+      "name": "Data Quality Lab Dataset 43",
+      "workspaceId": "ws-016",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-016/datasets/ds-0043"
+    },
+    {
+      "id": "ds-0044",
+      "name": "Data Quality Lab Dataset 44",
+      "workspaceId": "ws-016",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-016/datasets/ds-0044"
+    },
+    {
+      "id": "ds-0045",
+      "name": "Field Service Dataset 45",
+      "workspaceId": "ws-017",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-017/datasets/ds-0045"
+    },
+    {
+      "id": "ds-0046",
+      "name": "Field Service Dataset 46",
+      "workspaceId": "ws-017",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-017/datasets/ds-0046"
+    },
+    {
+      "id": "ds-0047",
+      "name": "Field Service Dataset 47",
+      "workspaceId": "ws-017",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-017/datasets/ds-0047"
+    },
+    {
+      "id": "ds-0048",
+      "name": "Pricing Analytics Dataset 48",
+      "workspaceId": "ws-018",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-018/datasets/ds-0048"
+    },
+    {
+      "id": "ds-0049",
+      "name": "Pricing Analytics Dataset 49",
+      "workspaceId": "ws-018",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-018/datasets/ds-0049"
+    },
+    {
+      "id": "ds-0050",
+      "name": "Pricing Analytics Dataset 50",
+      "workspaceId": "ws-018",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-018/datasets/ds-0050"
+    },
+    {
+      "id": "ds-0051",
+      "name": "Pricing Analytics Dataset 51",
+      "workspaceId": "ws-018",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-018/datasets/ds-0051"
+    },
+    {
+      "id": "ds-0052",
+      "name": "Forecast Studio Dataset 52",
+      "workspaceId": "ws-019",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-019/datasets/ds-0052"
+    },
+    {
+      "id": "ds-0053",
+      "name": "Forecast Studio Dataset 53",
+      "workspaceId": "ws-019",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-019/datasets/ds-0053"
+    },
+    {
+      "id": "ds-0054",
+      "name": "Forecast Studio Dataset 54",
+      "workspaceId": "ws-019",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-019/datasets/ds-0054"
+    },
+    {
+      "id": "ds-0055",
+      "name": "Forecast Studio Dataset 55",
+      "workspaceId": "ws-019",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-019/datasets/ds-0055"
+    },
+    {
+      "id": "ds-0056",
+      "name": "Governance Sandbox Dataset 56",
+      "workspaceId": "ws-020",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-020/datasets/ds-0056"
+    },
+    {
+      "id": "ds-0057",
+      "name": "Governance Sandbox Dataset 57",
+      "workspaceId": "ws-020",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-020/datasets/ds-0057"
+    },
+    {
+      "id": "ds-0058",
+      "name": "Finance Reporting 21 Dataset 58",
+      "workspaceId": "ws-021",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-021/datasets/ds-0058"
+    },
+    {
+      "id": "ds-0059",
+      "name": "Finance Reporting 21 Dataset 59",
+      "workspaceId": "ws-021",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-021/datasets/ds-0059"
+    },
+    {
+      "id": "ds-0060",
+      "name": "Finance Reporting 21 Dataset 60",
+      "workspaceId": "ws-021",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-021/datasets/ds-0060"
+    },
+    {
+      "id": "ds-0061",
+      "name": "Finance Reporting 21 Dataset 61",
+      "workspaceId": "ws-021",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-021/datasets/ds-0061"
+    },
+    {
+      "id": "ds-0062",
+      "name": "Sales Analytics 22 Dataset 62",
+      "workspaceId": "ws-022",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-022/datasets/ds-0062"
+    },
+    {
+      "id": "ds-0063",
+      "name": "Sales Analytics 22 Dataset 63",
+      "workspaceId": "ws-022",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-022/datasets/ds-0063"
+    },
+    {
+      "id": "ds-0064",
+      "name": "Sales Analytics 22 Dataset 64",
+      "workspaceId": "ws-022",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-022/datasets/ds-0064"
+    },
+    {
+      "id": "ds-0065",
+      "name": "HR People Metrics 23 Dataset 65",
+      "workspaceId": "ws-023",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-023/datasets/ds-0065"
+    },
+    {
+      "id": "ds-0066",
+      "name": "HR People Metrics 23 Dataset 66",
+      "workspaceId": "ws-023",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-023/datasets/ds-0066"
+    },
+    {
+      "id": "ds-0067",
+      "name": "Operations Control 24 Dataset 67",
+      "workspaceId": "ws-024",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-024/datasets/ds-0067"
+    },
+    {
+      "id": "ds-0068",
+      "name": "Operations Control 24 Dataset 68",
+      "workspaceId": "ws-024",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-024/datasets/ds-0068"
+    },
+    {
+      "id": "ds-0069",
+      "name": "Operations Control 24 Dataset 69",
+      "workspaceId": "ws-024",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-024/datasets/ds-0069"
+    },
+    {
+      "id": "ds-0070",
+      "name": "Supply Chain Insights 25 Dataset 70",
+      "workspaceId": "ws-025",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-025/datasets/ds-0070"
+    },
+    {
+      "id": "ds-0071",
+      "name": "Supply Chain Insights 25 Dataset 71",
+      "workspaceId": "ws-025",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-025/datasets/ds-0071"
+    },
+    {
+      "id": "ds-0072",
+      "name": "Marketing Funnels 26 Dataset 72",
+      "workspaceId": "ws-026",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-026/datasets/ds-0072"
+    },
+    {
+      "id": "ds-0073",
+      "name": "Marketing Funnels 26 Dataset 73",
+      "workspaceId": "ws-026",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-026/datasets/ds-0073"
+    },
+    {
+      "id": "ds-0074",
+      "name": "Marketing Funnels 26 Dataset 74",
+      "workspaceId": "ws-026",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-026/datasets/ds-0074"
+    },
+    {
+      "id": "ds-0075",
+      "name": "Customer Success 27 Dataset 75",
+      "workspaceId": "ws-027",
+      "configuredBy": "owner11@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-027/datasets/ds-0075"
+    },
+    {
+      "id": "ds-0076",
+      "name": "Customer Success 27 Dataset 76",
+      "workspaceId": "ws-027",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-027/datasets/ds-0076"
+    },
+    {
+      "id": "ds-0077",
+      "name": "Customer Success 27 Dataset 77",
+      "workspaceId": "ws-027",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-027/datasets/ds-0077"
+    },
+    {
+      "id": "ds-0078",
+      "name": "Customer Success 27 Dataset 78",
+      "workspaceId": "ws-027",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-027/datasets/ds-0078"
+    },
+    {
+      "id": "ds-0079",
+      "name": "Risk & Compliance 28 Dataset 79",
+      "workspaceId": "ws-028",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-028/datasets/ds-0079"
+    },
+    {
+      "id": "ds-0080",
+      "name": "Risk & Compliance 28 Dataset 80",
+      "workspaceId": "ws-028",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-028/datasets/ds-0080"
+    },
+    {
+      "id": "ds-0081",
+      "name": "Risk & Compliance 28 Dataset 81",
+      "workspaceId": "ws-028",
+      "configuredBy": "owner12@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-028/datasets/ds-0081"
+    },
+    {
+      "id": "ds-0082",
+      "name": "Risk & Compliance 28 Dataset 82",
+      "workspaceId": "ws-028",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-028/datasets/ds-0082"
+    },
+    {
+      "id": "ds-0083",
+      "name": "Clinical Quality 29 Dataset 83",
+      "workspaceId": "ws-029",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-029/datasets/ds-0083"
+    },
+    {
+      "id": "ds-0084",
+      "name": "Clinical Quality 29 Dataset 84",
+      "workspaceId": "ws-029",
+      "configuredBy": "owner11@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-029/datasets/ds-0084"
+    },
+    {
+      "id": "ds-0085",
+      "name": "Clinical Quality 29 Dataset 85",
+      "workspaceId": "ws-029",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-029/datasets/ds-0085"
+    },
+    {
+      "id": "ds-0086",
+      "name": "Clinical Quality 29 Dataset 86",
+      "workspaceId": "ws-029",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-029/datasets/ds-0086"
+    },
+    {
+      "id": "ds-0087",
+      "name": "Executive Dashboards 30 Dataset 87",
+      "workspaceId": "ws-030",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-030/datasets/ds-0087"
+    },
+    {
+      "id": "ds-0088",
+      "name": "Executive Dashboards 30 Dataset 88",
+      "workspaceId": "ws-030",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-030/datasets/ds-0088"
+    },
+    {
+      "id": "ds-0089",
+      "name": "Executive Dashboards 30 Dataset 89",
+      "workspaceId": "ws-030",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-030/datasets/ds-0089"
+    },
+    {
+      "id": "ds-0090",
+      "name": "Product Telemetry 31 Dataset 90",
+      "workspaceId": "ws-031",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-031/datasets/ds-0090"
+    },
+    {
+      "id": "ds-0091",
+      "name": "Product Telemetry 31 Dataset 91",
+      "workspaceId": "ws-031",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-031/datasets/ds-0091"
+    },
+    {
+      "id": "ds-0092",
+      "name": "Revenue Assurance 32 Dataset 92",
+      "workspaceId": "ws-032",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-032/datasets/ds-0092"
+    },
+    {
+      "id": "ds-0093",
+      "name": "Revenue Assurance 32 Dataset 93",
+      "workspaceId": "ws-032",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-032/datasets/ds-0093"
+    },
+    {
+      "id": "ds-0094",
+      "name": "Revenue Assurance 32 Dataset 94",
+      "workspaceId": "ws-032",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-032/datasets/ds-0094"
+    },
+    {
+      "id": "ds-0095",
+      "name": "Inventory Planning 33 Dataset 95",
+      "workspaceId": "ws-033",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-033/datasets/ds-0095"
+    },
+    {
+      "id": "ds-0096",
+      "name": "Inventory Planning 33 Dataset 96",
+      "workspaceId": "ws-033",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-033/datasets/ds-0096"
+    },
+    {
+      "id": "ds-0097",
+      "name": "Procurement Spend 34 Dataset 97",
+      "workspaceId": "ws-034",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-034/datasets/ds-0097"
+    },
+    {
+      "id": "ds-0098",
+      "name": "Procurement Spend 34 Dataset 98",
+      "workspaceId": "ws-034",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-034/datasets/ds-0098"
+    },
+    {
+      "id": "ds-0099",
+      "name": "Procurement Spend 34 Dataset 99",
+      "workspaceId": "ws-034",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-034/datasets/ds-0099"
+    },
+    {
+      "id": "ds-0100",
+      "name": "Procurement Spend 34 Dataset 100",
+      "workspaceId": "ws-034",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-034/datasets/ds-0100"
+    },
+    {
+      "id": "ds-0101",
+      "name": "Support Analytics 35 Dataset 101",
+      "workspaceId": "ws-035",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-035/datasets/ds-0101"
+    },
+    {
+      "id": "ds-0102",
+      "name": "Support Analytics 35 Dataset 102",
+      "workspaceId": "ws-035",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-035/datasets/ds-0102"
+    },
+    {
+      "id": "ds-0103",
+      "name": "Data Quality Lab 36 Dataset 103",
+      "workspaceId": "ws-036",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-036/datasets/ds-0103"
+    },
+    {
+      "id": "ds-0104",
+      "name": "Data Quality Lab 36 Dataset 104",
+      "workspaceId": "ws-036",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-036/datasets/ds-0104"
+    },
+    {
+      "id": "ds-0105",
+      "name": "Data Quality Lab 36 Dataset 105",
+      "workspaceId": "ws-036",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-036/datasets/ds-0105"
+    },
+    {
+      "id": "ds-0106",
+      "name": "Field Service 37 Dataset 106",
+      "workspaceId": "ws-037",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-037/datasets/ds-0106"
+    },
+    {
+      "id": "ds-0107",
+      "name": "Field Service 37 Dataset 107",
+      "workspaceId": "ws-037",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-037/datasets/ds-0107"
+    },
+    {
+      "id": "ds-0108",
+      "name": "Field Service 37 Dataset 108",
+      "workspaceId": "ws-037",
+      "configuredBy": "owner11@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-037/datasets/ds-0108"
+    },
+    {
+      "id": "ds-0109",
+      "name": "Pricing Analytics 38 Dataset 109",
+      "workspaceId": "ws-038",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-038/datasets/ds-0109"
+    },
+    {
+      "id": "ds-0110",
+      "name": "Pricing Analytics 38 Dataset 110",
+      "workspaceId": "ws-038",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-038/datasets/ds-0110"
+    },
+    {
+      "id": "ds-0111",
+      "name": "Pricing Analytics 38 Dataset 111",
+      "workspaceId": "ws-038",
+      "configuredBy": "owner11@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-038/datasets/ds-0111"
+    },
+    {
+      "id": "ds-0112",
+      "name": "Forecast Studio 39 Dataset 112",
+      "workspaceId": "ws-039",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-039/datasets/ds-0112"
+    },
+    {
+      "id": "ds-0113",
+      "name": "Forecast Studio 39 Dataset 113",
+      "workspaceId": "ws-039",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-039/datasets/ds-0113"
+    },
+    {
+      "id": "ds-0114",
+      "name": "Forecast Studio 39 Dataset 114",
+      "workspaceId": "ws-039",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-039/datasets/ds-0114"
+    },
+    {
+      "id": "ds-0115",
+      "name": "Forecast Studio 39 Dataset 115",
+      "workspaceId": "ws-039",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-039/datasets/ds-0115"
+    },
+    {
+      "id": "ds-0116",
+      "name": "Governance Sandbox 40 Dataset 116",
+      "workspaceId": "ws-040",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-040/datasets/ds-0116"
+    },
+    {
+      "id": "ds-0117",
+      "name": "Governance Sandbox 40 Dataset 117",
+      "workspaceId": "ws-040",
+      "configuredBy": "owner12@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-040/datasets/ds-0117"
+    },
+    {
+      "id": "ds-0118",
+      "name": "Governance Sandbox 40 Dataset 118",
+      "workspaceId": "ws-040",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-040/datasets/ds-0118"
+    },
+    {
+      "id": "ds-0119",
+      "name": "Finance Reporting 41 Dataset 119",
+      "workspaceId": "ws-041",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-041/datasets/ds-0119"
+    },
+    {
+      "id": "ds-0120",
+      "name": "Finance Reporting 41 Dataset 120",
+      "workspaceId": "ws-041",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-041/datasets/ds-0120"
+    },
+    {
+      "id": "ds-0121",
+      "name": "Finance Reporting 41 Dataset 121",
+      "workspaceId": "ws-041",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-041/datasets/ds-0121"
+    },
+    {
+      "id": "ds-0122",
+      "name": "Finance Reporting 41 Dataset 122",
+      "workspaceId": "ws-041",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-041/datasets/ds-0122"
+    },
+    {
+      "id": "ds-0123",
+      "name": "Sales Analytics 42 Dataset 123",
+      "workspaceId": "ws-042",
+      "configuredBy": "owner12@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-042/datasets/ds-0123"
+    },
+    {
+      "id": "ds-0124",
+      "name": "Sales Analytics 42 Dataset 124",
+      "workspaceId": "ws-042",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-042/datasets/ds-0124"
+    },
+    {
+      "id": "ds-0125",
+      "name": "Sales Analytics 42 Dataset 125",
+      "workspaceId": "ws-042",
+      "configuredBy": "owner05@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-042/datasets/ds-0125"
+    },
+    {
+      "id": "ds-0126",
+      "name": "HR People Metrics 43 Dataset 126",
+      "workspaceId": "ws-043",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-043/datasets/ds-0126"
+    },
+    {
+      "id": "ds-0127",
+      "name": "HR People Metrics 43 Dataset 127",
+      "workspaceId": "ws-043",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-043/datasets/ds-0127"
+    },
+    {
+      "id": "ds-0128",
+      "name": "Operations Control 44 Dataset 128",
+      "workspaceId": "ws-044",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-044/datasets/ds-0128"
+    },
+    {
+      "id": "ds-0129",
+      "name": "Operations Control 44 Dataset 129",
+      "workspaceId": "ws-044",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-044/datasets/ds-0129"
+    },
+    {
+      "id": "ds-0130",
+      "name": "Operations Control 44 Dataset 130",
+      "workspaceId": "ws-044",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-044/datasets/ds-0130"
+    },
+    {
+      "id": "ds-0131",
+      "name": "Operations Control 44 Dataset 131",
+      "workspaceId": "ws-044",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-044/datasets/ds-0131"
+    },
+    {
+      "id": "ds-0132",
+      "name": "Supply Chain Insights 45 Dataset 132",
+      "workspaceId": "ws-045",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-045/datasets/ds-0132"
+    },
+    {
+      "id": "ds-0133",
+      "name": "Supply Chain Insights 45 Dataset 133",
+      "workspaceId": "ws-045",
+      "configuredBy": "owner12@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-045/datasets/ds-0133"
+    },
+    {
+      "id": "ds-0134",
+      "name": "Supply Chain Insights 45 Dataset 134",
+      "workspaceId": "ws-045",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-045/datasets/ds-0134"
+    },
+    {
+      "id": "ds-0135",
+      "name": "Supply Chain Insights 45 Dataset 135",
+      "workspaceId": "ws-045",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-045/datasets/ds-0135"
+    },
+    {
+      "id": "ds-0136",
+      "name": "Marketing Funnels 46 Dataset 136",
+      "workspaceId": "ws-046",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-046/datasets/ds-0136"
+    },
+    {
+      "id": "ds-0137",
+      "name": "Marketing Funnels 46 Dataset 137",
+      "workspaceId": "ws-046",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-046/datasets/ds-0137"
+    },
+    {
+      "id": "ds-0138",
+      "name": "Marketing Funnels 46 Dataset 138",
+      "workspaceId": "ws-046",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-046/datasets/ds-0138"
+    },
+    {
+      "id": "ds-0139",
+      "name": "Marketing Funnels 46 Dataset 139",
+      "workspaceId": "ws-046",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-046/datasets/ds-0139"
+    },
+    {
+      "id": "ds-0140",
+      "name": "Customer Success 47 Dataset 140",
+      "workspaceId": "ws-047",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-047/datasets/ds-0140"
+    },
+    {
+      "id": "ds-0141",
+      "name": "Customer Success 47 Dataset 141",
+      "workspaceId": "ws-047",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-047/datasets/ds-0141"
+    },
+    {
+      "id": "ds-0142",
+      "name": "Risk & Compliance 48 Dataset 142",
+      "workspaceId": "ws-048",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-048/datasets/ds-0142"
+    },
+    {
+      "id": "ds-0143",
+      "name": "Risk & Compliance 48 Dataset 143",
+      "workspaceId": "ws-048",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-048/datasets/ds-0143"
+    },
+    {
+      "id": "ds-0144",
+      "name": "Risk & Compliance 48 Dataset 144",
+      "workspaceId": "ws-048",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-048/datasets/ds-0144"
+    },
+    {
+      "id": "ds-0145",
+      "name": "Clinical Quality 49 Dataset 145",
+      "workspaceId": "ws-049",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-049/datasets/ds-0145"
+    },
+    {
+      "id": "ds-0146",
+      "name": "Clinical Quality 49 Dataset 146",
+      "workspaceId": "ws-049",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-049/datasets/ds-0146"
+    },
+    {
+      "id": "ds-0147",
+      "name": "Clinical Quality 49 Dataset 147",
+      "workspaceId": "ws-049",
+      "configuredBy": "owner07@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-049/datasets/ds-0147"
+    },
+    {
+      "id": "ds-0148",
+      "name": "Clinical Quality 49 Dataset 148",
+      "workspaceId": "ws-049",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-049/datasets/ds-0148"
+    },
+    {
+      "id": "ds-0149",
+      "name": "Executive Dashboards 50 Dataset 149",
+      "workspaceId": "ws-050",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-050/datasets/ds-0149"
+    },
+    {
+      "id": "ds-0150",
+      "name": "Executive Dashboards 50 Dataset 150",
+      "workspaceId": "ws-050",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-050/datasets/ds-0150"
+    },
+    {
+      "id": "ds-0151",
+      "name": "Executive Dashboards 50 Dataset 151",
+      "workspaceId": "ws-050",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-050/datasets/ds-0151"
+    },
+    {
+      "id": "ds-0152",
+      "name": "Executive Dashboards 50 Dataset 152",
+      "workspaceId": "ws-050",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-050/datasets/ds-0152"
+    },
+    {
+      "id": "ds-0153",
+      "name": "Product Telemetry 51 Dataset 153",
+      "workspaceId": "ws-051",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-051/datasets/ds-0153"
+    },
+    {
+      "id": "ds-0154",
+      "name": "Product Telemetry 51 Dataset 154",
+      "workspaceId": "ws-051",
+      "configuredBy": "owner09@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-051/datasets/ds-0154"
+    },
+    {
+      "id": "ds-0155",
+      "name": "Product Telemetry 51 Dataset 155",
+      "workspaceId": "ws-051",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-051/datasets/ds-0155"
+    },
+    {
+      "id": "ds-0156",
+      "name": "Product Telemetry 51 Dataset 156",
+      "workspaceId": "ws-051",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-051/datasets/ds-0156"
+    },
+    {
+      "id": "ds-0157",
+      "name": "Revenue Assurance 52 Dataset 157",
+      "workspaceId": "ws-052",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-052/datasets/ds-0157"
+    },
+    {
+      "id": "ds-0158",
+      "name": "Revenue Assurance 52 Dataset 158",
+      "workspaceId": "ws-052",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-052/datasets/ds-0158"
+    },
+    {
+      "id": "ds-0159",
+      "name": "Inventory Planning 53 Dataset 159",
+      "workspaceId": "ws-053",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-053/datasets/ds-0159"
+    },
+    {
+      "id": "ds-0160",
+      "name": "Inventory Planning 53 Dataset 160",
+      "workspaceId": "ws-053",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-053/datasets/ds-0160"
+    },
+    {
+      "id": "ds-0161",
+      "name": "Inventory Planning 53 Dataset 161",
+      "workspaceId": "ws-053",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-053/datasets/ds-0161"
+    },
+    {
+      "id": "ds-0162",
+      "name": "Procurement Spend 54 Dataset 162",
+      "workspaceId": "ws-054",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-054/datasets/ds-0162"
+    },
+    {
+      "id": "ds-0163",
+      "name": "Procurement Spend 54 Dataset 163",
+      "workspaceId": "ws-054",
+      "configuredBy": "owner12@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-054/datasets/ds-0163"
+    },
+    {
+      "id": "ds-0164",
+      "name": "Support Analytics 55 Dataset 164",
+      "workspaceId": "ws-055",
+      "configuredBy": "owner01@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-055/datasets/ds-0164"
+    },
+    {
+      "id": "ds-0165",
+      "name": "Support Analytics 55 Dataset 165",
+      "workspaceId": "ws-055",
+      "configuredBy": "owner18@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-055/datasets/ds-0165"
+    },
+    {
+      "id": "ds-0166",
+      "name": "Support Analytics 55 Dataset 166",
+      "workspaceId": "ws-055",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-055/datasets/ds-0166"
+    },
+    {
+      "id": "ds-0167",
+      "name": "Support Analytics 55 Dataset 167",
+      "workspaceId": "ws-055",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-055/datasets/ds-0167"
+    },
+    {
+      "id": "ds-0168",
+      "name": "Data Quality Lab 56 Dataset 168",
+      "workspaceId": "ws-056",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-056/datasets/ds-0168"
+    },
+    {
+      "id": "ds-0169",
+      "name": "Data Quality Lab 56 Dataset 169",
+      "workspaceId": "ws-056",
+      "configuredBy": "owner16@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-056/datasets/ds-0169"
+    },
+    {
+      "id": "ds-0170",
+      "name": "Data Quality Lab 56 Dataset 170",
+      "workspaceId": "ws-056",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-056/datasets/ds-0170"
+    },
+    {
+      "id": "ds-0171",
+      "name": "Field Service 57 Dataset 171",
+      "workspaceId": "ws-057",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-057/datasets/ds-0171"
+    },
+    {
+      "id": "ds-0172",
+      "name": "Field Service 57 Dataset 172",
+      "workspaceId": "ws-057",
+      "configuredBy": "owner10@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-057/datasets/ds-0172"
+    },
+    {
+      "id": "ds-0173",
+      "name": "Pricing Analytics 58 Dataset 173",
+      "workspaceId": "ws-058",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-058/datasets/ds-0173"
+    },
+    {
+      "id": "ds-0174",
+      "name": "Pricing Analytics 58 Dataset 174",
+      "workspaceId": "ws-058",
+      "configuredBy": "owner08@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-058/datasets/ds-0174"
+    },
+    {
+      "id": "ds-0175",
+      "name": "Pricing Analytics 58 Dataset 175",
+      "workspaceId": "ws-058",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-058/datasets/ds-0175"
+    },
+    {
+      "id": "ds-0176",
+      "name": "Pricing Analytics 58 Dataset 176",
+      "workspaceId": "ws-058",
+      "configuredBy": "owner02@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-058/datasets/ds-0176"
+    },
+    {
+      "id": "ds-0177",
+      "name": "Forecast Studio 59 Dataset 177",
+      "workspaceId": "ws-059",
+      "configuredBy": "owner17@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-059/datasets/ds-0177"
+    },
+    {
+      "id": "ds-0178",
+      "name": "Forecast Studio 59 Dataset 178",
+      "workspaceId": "ws-059",
+      "configuredBy": "owner15@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-059/datasets/ds-0178"
+    },
+    {
+      "id": "ds-0179",
+      "name": "Governance Sandbox 60 Dataset 179",
+      "workspaceId": "ws-060",
+      "configuredBy": "owner20@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-060/datasets/ds-0179"
+    },
+    {
+      "id": "ds-0180",
+      "name": "Governance Sandbox 60 Dataset 180",
+      "workspaceId": "ws-060",
+      "configuredBy": "owner13@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-060/datasets/ds-0180"
+    },
+    {
+      "id": "ds-0181",
+      "name": "Governance Sandbox 60 Dataset 181",
+      "workspaceId": "ws-060",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-060/datasets/ds-0181"
+    },
+    {
+      "id": "ds-0182",
+      "name": "Finance Reporting 61 Dataset 182",
+      "workspaceId": "ws-061",
+      "configuredBy": "owner03@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-061/datasets/ds-0182"
+    },
+    {
+      "id": "ds-0183",
+      "name": "Finance Reporting 61 Dataset 183",
+      "workspaceId": "ws-061",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-061/datasets/ds-0183"
+    },
+    {
+      "id": "ds-0184",
+      "name": "Finance Reporting 61 Dataset 184",
+      "workspaceId": "ws-061",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-061/datasets/ds-0184"
+    },
+    {
+      "id": "ds-0185",
+      "name": "Finance Reporting 61 Dataset 185",
+      "workspaceId": "ws-061",
+      "configuredBy": "owner04@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-061/datasets/ds-0185"
+    },
+    {
+      "id": "ds-0186",
+      "name": "Sales Analytics 62 Dataset 186",
+      "workspaceId": "ws-062",
+      "configuredBy": "owner14@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-062/datasets/ds-0186"
+    },
+    {
+      "id": "ds-0187",
+      "name": "Sales Analytics 62 Dataset 187",
+      "workspaceId": "ws-062",
+      "configuredBy": "owner19@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-062/datasets/ds-0187"
+    },
+    {
+      "id": "ds-0188",
+      "name": "Sales Analytics 62 Dataset 188",
+      "workspaceId": "ws-062",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-062/datasets/ds-0188"
+    },
+    {
+      "id": "ds-0189",
+      "name": "Sales Analytics 62 Dataset 189",
+      "workspaceId": "ws-062",
+      "configuredBy": "owner06@example.com",
+      "isRefreshable": true,
+      "webUrl": "https://app.powerbi.com/groups/ws-062/datasets/ds-0189"
+    }
+  ]
+}

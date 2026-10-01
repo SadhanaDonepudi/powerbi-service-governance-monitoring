@@ -1,0 +1,63 @@
+workspaceId,workspaceName,datasetCount,reportCount,hasApp
+ws-001,Finance Reporting,4,0,True
+ws-002,Sales Analytics,2,0,True
+ws-003,HR People Metrics,3,0,True
+ws-004,Operations Control,3,0,True
+ws-005,Supply Chain Insights,2,0,True
+ws-006,Marketing Funnels,3,0,True
+ws-007,Customer Success,2,0,True
+ws-008,Risk & Compliance,3,0,True
+ws-009,Clinical Quality,4,0,True
+ws-010,Executive Dashboards,3,0,True
+ws-011,Product Telemetry,4,0,True
+ws-012,Revenue Assurance,3,0,True
+ws-013,Inventory Planning,2,0,True
+ws-014,Procurement Spend,2,0,True
+ws-015,Support Analytics,2,0,True
+ws-016,Data Quality Lab,2,0,True
+ws-017,Field Service,3,0,True
+ws-018,Pricing Analytics,4,0,True
+ws-019,Forecast Studio,4,0,True
+ws-020,Governance Sandbox,2,0,True
+ws-021,Finance Reporting 21,4,0,True
+ws-022,Sales Analytics 22,3,0,True
+ws-023,HR People Metrics 23,2,0,True
+ws-024,Operations Control 24,3,0,True
+ws-025,Supply Chain Insights 25,2,0,True
+ws-026,Marketing Funnels 26,3,0,True
+ws-027,Customer Success 27,4,0,True
+ws-028,Risk & Compliance 28,4,0,True
+ws-029,Clinical Quality 29,4,0,True
+ws-030,Executive Dashboards 30,3,0,True
+ws-031,Product Telemetry 31,2,0,True
+ws-032,Revenue Assurance 32,3,0,True
+ws-033,Inventory Planning 33,2,0,True
+ws-034,Procurement Spend 34,4,0,True
+ws-035,Support Analytics 35,2,0,True
+ws-036,Data Quality Lab 36,3,0,True
+ws-037,Field Service 37,3,0,True
+ws-038,Pricing Analytics 38,3,0,True
+ws-039,Forecast Studio 39,4,0,True
+ws-040,Governance Sandbox 40,3,0,True
+ws-041,Finance Reporting 41,4,0,False
+ws-042,Sales Analytics 42,3,0,False
+ws-043,HR People Metrics 43,2,0,False
+ws-044,Operations Control 44,4,0,False
+ws-045,Supply Chain Insights 45,4,0,False
+ws-046,Marketing Funnels 46,4,0,False
+ws-047,Customer Success 47,2,0,False
+ws-048,Risk & Compliance 48,3,0,False
+ws-049,Clinical Quality 49,4,0,False
+ws-050,Executive Dashboards 50,4,0,False
+ws-051,Product Telemetry 51,4,0,False
+ws-052,Revenue Assurance 52,2,0,False
+ws-053,Inventory Planning 53,3,0,False
+ws-054,Procurement Spend 54,2,0,False
+ws-055,Support Analytics 55,4,0,False
+ws-056,Data Quality Lab 56,3,0,False
+ws-057,Field Service 57,2,0,False
+ws-058,Pricing Analytics 58,4,0,False
+ws-059,Forecast Studio 59,2,0,False
+ws-060,Governance Sandbox 60,3,0,False
+ws-061,Finance Reporting 61,4,0,False
+ws-062,Sales Analytics 62,4,0,False

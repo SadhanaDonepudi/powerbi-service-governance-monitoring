@@ -1,0 +1,284 @@
+{
+  "value": [
+    {
+      "id": "app-001",
+      "name": "Finance Reporting App",
+      "workspaceId": "ws-001",
+      "publishedBy": "owner09@example.com",
+      "lastUpdate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "app-002",
+      "name": "Sales Analytics App",
+      "workspaceId": "ws-002",
+      "publishedBy": "owner01@example.com",
+      "lastUpdate": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "app-003",
+      "name": "HR People Metrics App",
+      "workspaceId": "ws-003",
+      "publishedBy": "owner10@example.com",
+      "lastUpdate": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "app-004",
+      "name": "Operations Control App",
+      "workspaceId": "ws-004",
+      "publishedBy": "owner06@example.com",
+      "lastUpdate": "2026-06-05T00:00:00Z"
+    },
+    {
+      "id": "app-005",
+      "name": "Supply Chain Insights App",
+      "workspaceId": "ws-005",
+      "publishedBy": "owner12@example.com",
+      "lastUpdate": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": "app-006",
+      "name": "Marketing Funnels App",
+      "workspaceId": "ws-006",
+      "publishedBy": "owner14@example.com",
+      "lastUpdate": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "app-007",
+      "name": "Customer Success App",
+      "workspaceId": "ws-007",
+      "publishedBy": "owner15@example.com",
+      "lastUpdate": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": "app-008",
+      "name": "Risk & Compliance App",
+      "workspaceId": "ws-008",
+      "publishedBy": "owner07@example.com",
+      "lastUpdate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "app-009",
+      "name": "Clinical Quality App",
+      "workspaceId": "ws-009",
+      "publishedBy": "owner04@example.com",
+      "lastUpdate": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "app-010",
+      "name": "Executive Dashboards App",
+      "workspaceId": "ws-010",
+      "publishedBy": "owner19@example.com",
+      "lastUpdate": "2026-06-23T00:00:00Z"
+    },
+    {
+      "id": "app-011",
+      "name": "Product Telemetry App",
+      "workspaceId": "ws-011",
+      "publishedBy": "owner10@example.com",
+      "lastUpdate": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "app-012",
+      "name": "Revenue Assurance App",
+      "workspaceId": "ws-012",
+      "publishedBy": "owner01@example.com",
+      "lastUpdate": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": "app-013",
+      "name": "Inventory Planning App",
+      "workspaceId": "ws-013",
+      "publishedBy": "owner13@example.com",
+      "lastUpdate": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "app-014",
+      "name": "Procurement Spend App",
+      "workspaceId": "ws-014",
+      "publishedBy": "owner19@example.com",
+      "lastUpdate": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": "app-015",
+      "name": "Support Analytics App",
+      "workspaceId": "ws-015",
+      "publishedBy": "owner02@example.com",
+      "lastUpdate": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "app-016",
+      "name": "Data Quality Lab App",
+      "workspaceId": "ws-016",
+      "publishedBy": "owner16@example.com",
+      "lastUpdate": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": "app-017",
+      "name": "Field Service App",
+      "workspaceId": "ws-017",
+      "publishedBy": "owner08@example.com",
+      "lastUpdate": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "app-018",
+      "name": "Pricing Analytics App",
+      "workspaceId": "ws-018",
+      "publishedBy": "owner08@example.com",
+      "lastUpdate": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": "app-019",
+      "name": "Forecast Studio App",
+      "workspaceId": "ws-019",
+      "publishedBy": "owner20@example.com",
+      "lastUpdate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "app-020",
+      "name": "Governance Sandbox App",
+      "workspaceId": "ws-020",
+      "publishedBy": "owner05@example.com",
+      "lastUpdate": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": "app-021",
+      "name": "Finance Reporting 21 App",
+      "workspaceId": "ws-021",
+      "publishedBy": "owner02@example.com",
+      "lastUpdate": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "app-022",
+      "name": "Sales Analytics 22 App",
+      "workspaceId": "ws-022",
+      "publishedBy": "owner02@example.com",
+      "lastUpdate": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": "app-023",
+      "name": "HR People Metrics 23 App",
+      "workspaceId": "ws-023",
+      "publishedBy": "owner05@example.com",
+      "lastUpdate": "2026-06-06T00:00:00Z"
+    },
+    {
+      "id": "app-024",
+      "name": "Operations Control 24 App",
+      "workspaceId": "ws-024",
+      "publishedBy": "owner11@example.com",
+      "lastUpdate": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": "app-025",
+      "name": "Supply Chain Insights 25 App",
+      "workspaceId": "ws-025",
+      "publishedBy": "owner06@example.com",
+      "lastUpdate": "2026-06-13T00:00:00Z"
+    },
+    {
+      "id": "app-026",
+      "name": "Marketing Funnels 26 App",
+      "workspaceId": "ws-026",
+      "publishedBy": "owner18@example.com",
+      "lastUpdate": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "app-027",
+      "name": "Customer Success 27 App",
+      "workspaceId": "ws-027",
+      "publishedBy": "owner17@example.com",
+      "lastUpdate": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "app-028",
+      "name": "Risk & Compliance 28 App",
+      "workspaceId": "ws-028",
+      "publishedBy": "owner06@example.com",
+      "lastUpdate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "app-029",
+      "name": "Clinical Quality 29 App",
+      "workspaceId": "ws-029",
+      "publishedBy": "owner10@example.com",
+      "lastUpdate": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": "app-030",
+      "name": "Executive Dashboards 30 App",
+      "workspaceId": "ws-030",
+      "publishedBy": "owner04@example.com",
+      "lastUpdate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "app-031",
+      "name": "Product Telemetry 31 App",
+      "workspaceId": "ws-031",
+      "publishedBy": "owner05@example.com",
+      "lastUpdate": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": "app-032",
+      "name": "Revenue Assurance 32 App",
+      "workspaceId": "ws-032",
+      "publishedBy": "owner13@example.com",
+      "lastUpdate": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": "app-033",
+      "name": "Inventory Planning 33 App",
+      "workspaceId": "ws-033",
+      "publishedBy": "owner12@example.com",
+      "lastUpdate": "2026-06-06T00:00:00Z"
+    },
+    {
+      "id": "app-034",
+      "name": "Procurement Spend 34 App",
+      "workspaceId": "ws-034",
+      "publishedBy": "owner01@example.com",
+      "lastUpdate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "app-035",
+      "name": "Support Analytics 35 App",
+      "workspaceId": "ws-035",
+      "publishedBy": "owner04@example.com",
+      "lastUpdate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "app-036",
+      "name": "Data Quality Lab 36 App",
+      "workspaceId": "ws-036",
+      "publishedBy": "owner09@example.com",
+      "lastUpdate": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": "app-037",
+      "name": "Field Service 37 App",
+      "workspaceId": "ws-037",
+      "publishedBy": "owner12@example.com",
+      "lastUpdate": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "app-038",
+      "name": "Pricing Analytics 38 App",
+      "workspaceId": "ws-038",
+      "publishedBy": "owner08@example.com",
+      "lastUpdate": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "app-039",
+      "name": "Forecast Studio 39 App",
+      "workspaceId": "ws-039",
+      "publishedBy": "owner20@example.com",
+      "lastUpdate": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "app-040",
+      "name": "Governance Sandbox 40 App",
+      "workspaceId": "ws-040",
+      "publishedBy": "owner11@example.com",
+      "lastUpdate": "2026-07-29T00:00:00Z"
+    }
+  ]
+}

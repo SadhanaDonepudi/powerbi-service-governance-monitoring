@@ -1,0 +1,438 @@
+{
+  "value": [
+    {
+      "id": "ws-001",
+      "name": "Finance Reporting",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-002",
+      "name": "Sales Analytics",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-003",
+      "name": "HR People Metrics",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-004",
+      "name": "Operations Control",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-005",
+      "name": "Supply Chain Insights",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-006",
+      "name": "Marketing Funnels",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-007",
+      "name": "Customer Success",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-008",
+      "name": "Risk & Compliance",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-009",
+      "name": "Clinical Quality",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-010",
+      "name": "Executive Dashboards",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-011",
+      "name": "Product Telemetry",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-012",
+      "name": "Revenue Assurance",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-013",
+      "name": "Inventory Planning",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-014",
+      "name": "Procurement Spend",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-015",
+      "name": "Support Analytics",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-016",
+      "name": "Data Quality Lab",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-017",
+      "name": "Field Service",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-018",
+      "name": "Pricing Analytics",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-019",
+      "name": "Forecast Studio",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-020",
+      "name": "Governance Sandbox",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-021",
+      "name": "Finance Reporting 21",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-022",
+      "name": "Sales Analytics 22",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-023",
+      "name": "HR People Metrics 23",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-024",
+      "name": "Operations Control 24",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-025",
+      "name": "Supply Chain Insights 25",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-026",
+      "name": "Marketing Funnels 26",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-027",
+      "name": "Customer Success 27",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-028",
+      "name": "Risk & Compliance 28",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-029",
+      "name": "Clinical Quality 29",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-030",
+      "name": "Executive Dashboards 30",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-031",
+      "name": "Product Telemetry 31",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-032",
+      "name": "Revenue Assurance 32",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-033",
+      "name": "Inventory Planning 33",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-034",
+      "name": "Procurement Spend 34",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-035",
+      "name": "Support Analytics 35",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-036",
+      "name": "Data Quality Lab 36",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-037",
+      "name": "Field Service 37",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-038",
+      "name": "Pricing Analytics 38",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-039",
+      "name": "Forecast Studio 39",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-040",
+      "name": "Governance Sandbox 40",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-041",
+      "name": "Finance Reporting 41",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-042",
+      "name": "Sales Analytics 42",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-043",
+      "name": "HR People Metrics 43",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-044",
+      "name": "Operations Control 44",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-045",
+      "name": "Supply Chain Insights 45",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-046",
+      "name": "Marketing Funnels 46",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-047",
+      "name": "Customer Success 47",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-048",
+      "name": "Risk & Compliance 48",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-049",
+      "name": "Clinical Quality 49",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-050",
+      "name": "Executive Dashboards 50",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-051",
+      "name": "Product Telemetry 51",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-052",
+      "name": "Revenue Assurance 52",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-053",
+      "name": "Inventory Planning 53",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-054",
+      "name": "Procurement Spend 54",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-055",
+      "name": "Support Analytics 55",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-056",
+      "name": "Data Quality Lab 56",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-057",
+      "name": "Field Service 57",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-058",
+      "name": "Pricing Analytics 58",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-059",
+      "name": "Forecast Studio 59",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-060",
+      "name": "Governance Sandbox 60",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-061",
+      "name": "Finance Reporting 61",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    },
+    {
+      "id": "ws-062",
+      "name": "Sales Analytics 62",
+      "type": "Workspace",
+      "state": "Active",
+      "isReadOnly": false
+    }
+  ]
+}

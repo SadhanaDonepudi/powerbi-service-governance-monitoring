@@ -1,0 +1,2134 @@
+{
+  "value": [
+    {
+      "workspaceId": "ws-001",
+      "identifier": "user036@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-001",
+      "identifier": "user140@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-001",
+      "identifier": "user109@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-001",
+      "identifier": "user008@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user007@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user140@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user057@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user072@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user088@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-002",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-003",
+      "identifier": "user092@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-003",
+      "identifier": "user068@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-003",
+      "identifier": "user118@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user093@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user059@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user021@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user026@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user072@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user094@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-004",
+      "identifier": "user095@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user044@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user042@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user098@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user143@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user084@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user059@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-005",
+      "identifier": "user081@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user081@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user128@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user118@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user068@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user064@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user150@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user150@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-006",
+      "identifier": "user093@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-007",
+      "identifier": "user013@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-007",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-007",
+      "identifier": "user109@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user065@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user088@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user076@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user001@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-008",
+      "identifier": "user129@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-009",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-009",
+      "identifier": "user042@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-009",
+      "identifier": "user083@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-009",
+      "identifier": "user005@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-010",
+      "identifier": "user146@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-010",
+      "identifier": "user022@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-010",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-010",
+      "identifier": "user033@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user055@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user080@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user096@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user133@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user031@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-011",
+      "identifier": "user058@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-012",
+      "identifier": "user057@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-012",
+      "identifier": "user019@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-012",
+      "identifier": "user059@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-012",
+      "identifier": "user009@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-013",
+      "identifier": "user125@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-013",
+      "identifier": "user139@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-013",
+      "identifier": "user147@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-013",
+      "identifier": "user063@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-013",
+      "identifier": "user105@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-014",
+      "identifier": "user109@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-014",
+      "identifier": "user120@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-014",
+      "identifier": "user026@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-014",
+      "identifier": "user104@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-014",
+      "identifier": "user028@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user036@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user047@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user119@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user020@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user141@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-015",
+      "identifier": "user013@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user125@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user055@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user016@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user098@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user100@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-016",
+      "identifier": "user117@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-017",
+      "identifier": "user076@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-017",
+      "identifier": "user015@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-017",
+      "identifier": "user081@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-017",
+      "identifier": "user013@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-018",
+      "identifier": "user048@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-018",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-018",
+      "identifier": "user104@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user021@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user150@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user067@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user081@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user068@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user034@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-019",
+      "identifier": "user118@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user145@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user019@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user130@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user034@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user095@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-020",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user142@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user027@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user068@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user028@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user070@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user054@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user053@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-021",
+      "identifier": "user130@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-022",
+      "identifier": "user012@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-022",
+      "identifier": "user086@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-022",
+      "identifier": "user068@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-022",
+      "identifier": "user114@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-022",
+      "identifier": "user144@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user010@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user150@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user111@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user011@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user094@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user092@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-023",
+      "identifier": "user064@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user042@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user106@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user046@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user106@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user069@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user028@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-024",
+      "identifier": "user010@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-025",
+      "identifier": "user079@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-025",
+      "identifier": "user058@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-025",
+      "identifier": "user050@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-025",
+      "identifier": "user085@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-025",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-026",
+      "identifier": "user008@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-026",
+      "identifier": "user067@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-026",
+      "identifier": "user149@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-026",
+      "identifier": "user010@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-026",
+      "identifier": "user112@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-027",
+      "identifier": "user099@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-027",
+      "identifier": "user066@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-027",
+      "identifier": "user112@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-028",
+      "identifier": "user085@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-028",
+      "identifier": "user032@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-028",
+      "identifier": "user130@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user033@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user108@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user045@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user104@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user078@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user054@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-029",
+      "identifier": "user149@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user122@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user022@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user132@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user024@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user080@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user051@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-030",
+      "identifier": "user007@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-031",
+      "identifier": "user117@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-031",
+      "identifier": "user148@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-031",
+      "identifier": "user099@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-032",
+      "identifier": "user109@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-032",
+      "identifier": "user046@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-032",
+      "identifier": "user013@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user136@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user114@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user141@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user116@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-033",
+      "identifier": "user064@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-034",
+      "identifier": "user074@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-034",
+      "identifier": "user070@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-034",
+      "identifier": "user082@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user017@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user105@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user139@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user107@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-035",
+      "identifier": "user053@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user123@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user091@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user100@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user138@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user125@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-036",
+      "identifier": "user070@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user104@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user120@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user137@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user101@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user022@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user035@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user047@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-037",
+      "identifier": "user067@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-038",
+      "identifier": "user098@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-038",
+      "identifier": "user108@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-038",
+      "identifier": "user021@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-038",
+      "identifier": "user005@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-038",
+      "identifier": "user090@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-039",
+      "identifier": "user006@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-039",
+      "identifier": "user062@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-039",
+      "identifier": "user122@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-039",
+      "identifier": "user145@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user080@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user149@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user080@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user102@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user020@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-040",
+      "identifier": "user027@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-041",
+      "identifier": "user137@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-041",
+      "identifier": "user095@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-041",
+      "identifier": "user130@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-041",
+      "identifier": "user004@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-041",
+      "identifier": "user126@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user046@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user138@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user120@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user069@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user063@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-042",
+      "identifier": "user072@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user098@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user008@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user084@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user125@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user091@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user088@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-043",
+      "identifier": "user071@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user143@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user122@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user115@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user024@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user057@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-044",
+      "identifier": "user063@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user089@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user141@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user091@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user070@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user065@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user031@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-045",
+      "identifier": "user081@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user124@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user135@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user026@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user076@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user093@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user078@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user137@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-046",
+      "identifier": "user071@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user033@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user027@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user147@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user121@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user113@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user048@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user065@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-047",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user014@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user039@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user022@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user031@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user058@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user116@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user077@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-048",
+      "identifier": "user079@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user021@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user062@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user142@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user105@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user121@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user009@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-049",
+      "identifier": "user074@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user051@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user039@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user037@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user016@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user079@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user113@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-050",
+      "identifier": "user120@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user113@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user011@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user083@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user007@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user059@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-051",
+      "identifier": "user069@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user114@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user047@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user126@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user121@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user105@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user083@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user042@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-052",
+      "identifier": "user106@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user023@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user065@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user132@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user139@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-053",
+      "identifier": "user106@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user128@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user014@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user069@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user074@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user125@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user008@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-054",
+      "identifier": "user041@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-055",
+      "identifier": "user030@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-055",
+      "identifier": "user031@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-055",
+      "identifier": "user128@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-055",
+      "identifier": "user131@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user142@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user099@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user131@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user107@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-056",
+      "identifier": "user130@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user149@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user039@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user138@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user089@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user142@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user117@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-057",
+      "identifier": "user049@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-058",
+      "identifier": "user122@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-058",
+      "identifier": "user099@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-058",
+      "identifier": "user127@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-058",
+      "identifier": "user033@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-058",
+      "identifier": "user026@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-059",
+      "identifier": "user037@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-059",
+      "identifier": "user040@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-059",
+      "identifier": "user121@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-060",
+      "identifier": "user137@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-060",
+      "identifier": "user082@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-060",
+      "identifier": "user139@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-060",
+      "identifier": "user018@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-060",
+      "identifier": "user074@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user043@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user008@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user084@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Admin"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user076@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Contributor"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user096@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-061",
+      "identifier": "user038@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-062",
+      "identifier": "user021@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-062",
+      "identifier": "user062@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    },
+    {
+      "workspaceId": "ws-062",
+      "identifier": "user150@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Member"
+    },
+    {
+      "workspaceId": "ws-062",
+      "identifier": "user060@contoso.example",
+      "principalType": "User",
+      "groupUserAccessRight": "Viewer"
+    }
+  ]
+}
